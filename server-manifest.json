@@ -3,7 +3,7 @@
   "author": "LLLLLearo",
   "version": "2.21",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/LLLLLearo/mypack-update/main",
+  "fileApi": "https://gh-proxy.com/https://raw.githubusercontent.com/LLLLLearo/mypack-update/main",
   "files": [
     {
       "path": "config/abridged.json",
