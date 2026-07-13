@@ -187,7 +187,7 @@
       "keys": "M,BUTTON_3"
     },
     "renderInfoOverlay": {
-      "keys": "I"
+      "keys": ""
     },
     "renderOverlayThroughBlocks": {
       "keys": "RIGHT_CONTROL"
@@ -319,7 +319,7 @@
       "keys": "BUTTON_3"
     },
     "toolSelectModifierBlock1": {
-      "keys": "LEFT_ALT"
+      "keys": "RIGHT_ALT"
     },
     "toolSelectModifierBlock2": {
       "keys": "LEFT_SHIFT"

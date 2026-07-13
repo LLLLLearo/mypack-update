@@ -76,7 +76,12 @@
     "com.li64.tide.client.gui.screens.AnglingTableScreen": true,
     "com.ezzenix.smoothgui.config.ModConfigScreen": true,
     "fi.dy.masa.litematica.gui.GuiPlacementConfiguration": true,
-    "fi.dy.masa.malilib.gui.GuiTextInputFeedback": true
+    "fi.dy.masa.malilib.gui.GuiTextInputFeedback": true,
+    "net.minecraft.class_410": true,
+    "xaero.pac.client.gui.MainMenu": true,
+    "com.aetherteam.aether.client.gui.screen.inventory.AetherAccessoriesScreen": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
+    "com.aetherteam.aether.client.gui.screen.inventory.LoreBookScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_5522": true,
@@ -85,6 +90,7 @@
     "com.b1n_ry.yigd.client.gui.screens.GraveSelectionScreen": true,
     "com.b1n_ry.yigd.client.gui.screens.PlayerSelectionScreen": true,
     "com.b1n_ry.yigd.client.gui.screens.GraveOverviewScreen": true,
-    "com.li64.tide.client.gui.screens.journal.FishingJournal": true
+    "com.li64.tide.client.gui.screens.journal.FishingJournal": true,
+    "xaero.pac.client.gui.MainMenu": true
   }
 }

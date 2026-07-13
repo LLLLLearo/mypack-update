@@ -1,6 +1,7 @@
 {
   "dimensions": [
     "minecraft:overworld",
+    "aether:the_aether",
     "minecraft:the_end",
     "minecraft:the_nether"
   ],
@@ -283,6 +284,38 @@
       "isVanilla": false,
       "dimensions": [
         "minecraft:overworld"
+      ]
+    },
+    {
+      "id": "aether:bronze_dungeon",
+      "displayName": "Bronze Dungeon",
+      "isVanilla": false,
+      "dimensions": [
+        "aether:the_aether"
+      ]
+    },
+    {
+      "id": "aether:gold_dungeon",
+      "displayName": "Gold Dungeon",
+      "isVanilla": false,
+      "dimensions": [
+        "aether:the_aether"
+      ]
+    },
+    {
+      "id": "aether:large_aercloud",
+      "displayName": "Large Aercloud",
+      "isVanilla": false,
+      "dimensions": [
+        "aether:the_aether"
+      ]
+    },
+    {
+      "id": "aether:silver_dungeon",
+      "displayName": "Silver Dungeon",
+      "isVanilla": false,
+      "dimensions": [
+        "aether:the_aether"
       ]
     },
     {
@@ -1820,6 +1853,15 @@
       "displayName": "#Better Ocean Monuments",
       "structureIds": [
         "betteroceanmonuments:ocean_monument"
+      ]
+    },
+    {
+      "tagId": "aether:dungeons",
+      "displayName": "#Dungeons",
+      "structureIds": [
+        "aether:bronze_dungeon",
+        "aether:gold_dungeon",
+        "aether:silver_dungeon"
       ]
     },
     {

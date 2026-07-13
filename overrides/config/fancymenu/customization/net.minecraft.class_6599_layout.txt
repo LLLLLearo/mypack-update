@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = net.minecraft.class_6599
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1780974436072
+  last_edited_time = 1783955465517
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:9a7cfc34-b2c1-4895-86a4-2331b339be01-1780974422029] = [groups:][instances:]
+  [loading_requirement_container_meta:280a846b-6a78-4dbd-8c43-9e2538675bcd-1783955434930] = [groups:][instances:]
 }
 
 menu_background {
