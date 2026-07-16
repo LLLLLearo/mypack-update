@@ -81,7 +81,8 @@
     "xaero.pac.client.gui.MainMenu": true,
     "com.aetherteam.aether.client.gui.screen.inventory.AetherAccessoriesScreen": true,
     "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
-    "com.aetherteam.aether.client.gui.screen.inventory.LoreBookScreen": true
+    "com.aetherteam.aether.client.gui.screen.inventory.LoreBookScreen": true,
+    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_5522": true,

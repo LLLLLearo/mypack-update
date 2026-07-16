@@ -47,8 +47,8 @@
     "graveRobbing": {
       "enabled": true,
       "killerSkipWaitTime": false,
-      "afterTime": 1,
-      "timeUnit": "HOURS",
+      "afterTime": 5,
+      "timeUnit": "MINUTES",
       "robPriority": "INVENTORY",
       "notifyWhenRobbed": true,
       "tellWhoRobbed": false

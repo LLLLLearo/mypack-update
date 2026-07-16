@@ -20,6 +20,10 @@
     "supplementaries:lumisene_bucket",
     "supplementaries:lumisene",
     "",
-    "tide:enchanted_pocket_watch"
+    "tide:enchanted_pocket_watch",
+    "smallships:aether_skyroot_cog",
+    "smallships:aether_skyroot_brigg",
+    "smallships:aether_skyroot_drakkar",
+    "smallships:aether_skyroot_galley"
   ]
 }

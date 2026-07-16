@@ -1,8 +1,8 @@
 {
 	"general": {
 		"infoPlacement": "TOP_RIGHT",
-		"infoOffsetX": 0,
-		"infoOffsetY": 0,
+		"infoOffsetX": 3,
+		"infoOffsetY": 8,
 		"ambientVoidParticles": true,
 		"defaultLineColor": false
 	},
