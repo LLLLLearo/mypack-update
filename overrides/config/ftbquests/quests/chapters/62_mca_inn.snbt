@@ -1,0 +1,72 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "62_mca_inn"
+	group: "1F9E64CA2F74F2AC"
+	icon: {
+		id: "minecraft:jukebox"
+	}
+	id: "4BDE6A29DEAEBF91"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1DFFB0FAEAFFBEFD"]
+			icon: {
+				id: "minecraft:jukebox"
+			}
+			id: "4054B1E1B5BEA909"
+			rewards: [{
+				count: 8
+				id: "1466D251AE587E85"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2EDA0B35F521323C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4054B1E1B5BEA909"]
+			icon: {
+				id: "minecraft:bread"
+			}
+			id: "4E78AD71CE0BC6FB"
+			tasks: [{
+				id: "0C9C567C613ACA51"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4E78AD71CE0BC6FB"]
+			icon: {
+				id: "minecraft:lantern"
+			}
+			id: "3716A6A059A9EFD8"
+			rewards: [{
+				count: 4
+				id: "4D1D31F2D59FB129"
+				item: {
+					count: 1
+					id: "minecraft:lantern"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "36C753814609D98E"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+	]
+}

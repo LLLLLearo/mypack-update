@@ -1,9 +1,18 @@
 {
   "dimensions": [
+    "stellaris:earth_orbit",
+    "stellaris:jupiter",
+    "stellaris:mars",
+    "stellaris:mars_orbit",
+    "stellaris:mercury",
+    "stellaris:mercury_orbit",
+    "stellaris:moon",
     "minecraft:overworld",
     "aether:the_aether",
     "minecraft:the_end",
-    "minecraft:the_nether"
+    "minecraft:the_nether",
+    "stellaris:venus",
+    "stellaris:venus_orbit"
   ],
   "structures": [
     {
@@ -1328,6 +1337,271 @@
       "isVanilla": false,
       "dimensions": [
         "minecraft:overworld"
+      ]
+    },
+    {
+      "id": "stellaris:earth_operation_base",
+      "displayName": "Earth Operation Base",
+      "isVanilla": false,
+      "dimensions": [
+        "minecraft:overworld"
+      ]
+    },
+    {
+      "id": "stellaris:earth_satellite",
+      "displayName": "Earth Satellite",
+      "isVanilla": false,
+      "dimensions": [
+        "minecraft:overworld"
+      ]
+    },
+    {
+      "id": "stellaris:mars_main_temple",
+      "displayName": "Mars Main Temple",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mars"
+      ]
+    },
+    {
+      "id": "stellaris:mars_maze",
+      "displayName": "Mars Maze",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mars"
+      ]
+    },
+    {
+      "id": "stellaris:mars_ruins",
+      "displayName": "Mars Ruins",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mars"
+      ]
+    },
+    {
+      "id": "stellaris:mars_temple",
+      "displayName": "Mars Temple",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mars"
+      ]
+    },
+    {
+      "id": "stellaris:mars_tower",
+      "displayName": "Mars Tower",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mars"
+      ]
+    },
+    {
+      "id": "stellaris:mercury_big_castle",
+      "displayName": "Mercury Big Castle",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mercury"
+      ]
+    },
+    {
+      "id": "stellaris:mercury_factory",
+      "displayName": "Mercury Factory",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mercury"
+      ]
+    },
+    {
+      "id": "stellaris:mercury_lava_mines",
+      "displayName": "Mercury Lava Mines",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mercury"
+      ]
+    },
+    {
+      "id": "stellaris:mercury_mining_ship",
+      "displayName": "Mercury Mining Ship",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mercury"
+      ]
+    },
+    {
+      "id": "stellaris:mercury_quarry",
+      "displayName": "Mercury Quarry",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mercury"
+      ]
+    },
+    {
+      "id": "stellaris:mercury_small_castle",
+      "displayName": "Mercury Small Castle",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mercury"
+      ]
+    },
+    {
+      "id": "stellaris:mercury_temple",
+      "displayName": "Mercury Temple",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mercury"
+      ]
+    },
+    {
+      "id": "stellaris:mercury_volcano",
+      "displayName": "Mercury Volcano",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:mercury"
+      ]
+    },
+    {
+      "id": "stellaris:meteor",
+      "displayName": "Meteor",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:moon",
+        "minecraft:overworld"
+      ]
+    },
+    {
+      "id": "stellaris:moon_destroyed_spaceship",
+      "displayName": "Moon Destroyed Spaceship",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:moon"
+      ]
+    },
+    {
+      "id": "stellaris:moon_destroyed_village",
+      "displayName": "Moon Destroyed Village",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:moon"
+      ]
+    },
+    {
+      "id": "stellaris:moon_dungeon",
+      "displayName": "Moon Dungeon",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:moon"
+      ]
+    },
+    {
+      "id": "stellaris:moon_first_landing",
+      "displayName": "Moon First Landing",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:moon"
+      ]
+    },
+    {
+      "id": "stellaris:moon_launchpad",
+      "displayName": "Moon Launchpad",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:moon"
+      ]
+    },
+    {
+      "id": "stellaris:moon_space_base",
+      "displayName": "Moon Space Base",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:moon"
+      ]
+    },
+    {
+      "id": "stellaris:moon_sphere",
+      "displayName": "Moon Sphere",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:moon"
+      ]
+    },
+    {
+      "id": "stellaris:moon_village",
+      "displayName": "Moon Village",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:moon"
+      ]
+    },
+    {
+      "id": "stellaris:small_moon_dungeon",
+      "displayName": "Small Moon Dungeon",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:moon"
+      ]
+    },
+    {
+      "id": "stellaris:venus_catacombs",
+      "displayName": "Venus Catacombs",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:venus"
+      ]
+    },
+    {
+      "id": "stellaris:venus_crash_site",
+      "displayName": "Venus Crash Site",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:venus"
+      ]
+    },
+    {
+      "id": "stellaris:venus_lava_outpost",
+      "displayName": "Venus Lava Outpost",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:venus"
+      ]
+    },
+    {
+      "id": "stellaris:venus_outpost",
+      "displayName": "Venus Outpost",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:venus"
+      ]
+    },
+    {
+      "id": "stellaris:venus_outpost_dungeon",
+      "displayName": "Venus Outpost Dungeon",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:venus"
+      ]
+    },
+    {
+      "id": "stellaris:venus_plaza",
+      "displayName": "Venus Plaza",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:venus"
+      ]
+    },
+    {
+      "id": "stellaris:venus_ruins",
+      "displayName": "Venus Ruins",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:venus"
+      ]
+    },
+    {
+      "id": "stellaris:venus_tower",
+      "displayName": "Venus Tower",
+      "isVanilla": false,
+      "dimensions": [
+        "stellaris:venus"
       ]
     },
     {

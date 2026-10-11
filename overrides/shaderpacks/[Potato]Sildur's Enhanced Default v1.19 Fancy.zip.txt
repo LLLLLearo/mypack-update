@@ -1,0 +1,9 @@
+#Mon Jun 08 20:27:02 CST 2026
+Godrays=false
+Refractions=false
+SSAO=false
+TAA=false
+grays_quality=1
+shadowDistance=90.0
+shadowMapResolution=1024
+skyReflection=false

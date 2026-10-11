@@ -1,0 +1,242 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "20_links"
+	group: "53679B3D8B9D2B7A"
+	id: "4EBC2CDF15AB9BB7"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6F9A0ECC301DCD3B"]
+			id: "23A51F95E8710CC8"
+			tasks: [{
+				consume_items: false
+				id: "673271F06803E298"
+				item: { count: 1, id: "tide:fish_bone" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F9A0ECC301DCD3B"]
+			id: "3F3D7DAE91633BEA"
+			tasks: [{
+				consume_items: false
+				id: "7947999DCA50CC10"
+				item: { count: 1, id: "oritech:packed_wheat" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3F3D7DAE91633BEA"
+				"66B19322CC53ED39"
+			]
+			id: "5CFFB6078030B56C"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "36A7EE24485DE30E"
+				item: { count: 1, id: "oritech:biomass" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "6DD5CF6FEADC7F47"
+			tasks: [{
+				consume_items: false
+				id: "626D9913D327B141"
+				item: { count: 1, id: "supplementaries:flax_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "6C046310BBF0FE03"
+			tasks: [{
+				consume_items: false
+				id: "3FEA35FDABF0F698"
+				item: { count: 1, id: "oritech:biosteel_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6C046310BBF0FE03"
+				"63790237330AE293"
+			]
+			id: "0C9A1CA664A6B803"
+			tasks: [{
+				consume_items: false
+				id: "338264865D9B9FDA"
+				item: { count: 1, id: "oritech:fertilizer_block" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6DD5CF6FEADC7F47"]
+			id: "00AE8D1D3625EEDD"
+			tasks: [{
+				consume_items: false
+				id: "7EE42C3C147152E7"
+				item: { count: 1, id: "smallships:sail" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			id: "5A505EB2F9156EA3"
+			tasks: [{
+				id: "3BFB65502145BEE7"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F9A0ECC301DCD3B"]
+			id: "0035B2AC3495B08B"
+			tasks: [{
+				dimension: "aether:the_aether"
+				id: "39BF20C6F006E657"
+				type: "dimension"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"0035B2AC3495B08B"
+				"431AD81106D32B40"
+				"63790237330AE293"
+			]
+			id: "373FEEF8D71B8879"
+			tasks: [{
+				consume_items: false
+				id: "7AD67915DF509EE0"
+				item: { count: 1, id: "aether:aerogel" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"0035B2AC3495B08B"
+				"15EF995CFECC534F"
+			]
+			id: "0B768B8E252BB43D"
+			tasks: [{
+				consume_items: false
+				id: "692D6792C0E86293"
+				item: { count: 1, id: "aether:enchanted_gravitite" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "3328FE4D8C0ACF6A"
+			tasks: [{
+				consume_items: false
+				id: "24030E587EF2D948"
+				item: { count: 1, id: "aether_treasure_reforging:valkyrum_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"431AD81106D32B40"
+				"63790237330AE293"
+			]
+			id: "31F35FDC9509C0BA"
+			tasks: [
+				{
+					consume_items: false
+					id: "71238EC443681DCE"
+					item: { count: 1, id: "exposure:camera" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "14AE8F1BA8F81C41"
+					item: { count: 1, id: "exposure:color_film" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "6EE9F2F015FAE015"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31CA8FB2D7198C5A"
+				type: "random"
+			}]
+			tasks: [{
+				id: "10E2563653A16916"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F9A0ECC301DCD3B"]
+			id: "0B3C2132F0F69FD6"
+			tasks: [{
+				consume_items: false
+				id: "573107F802C6AC69"
+				item: { count: 1, id: "minecraft:honey_block" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["66B19322CC53ED39"]
+			id: "493A52F8760D81FA"
+			tasks: [{
+				consume_items: false
+				id: "7B0DEAE0A7BDBF6B"
+				item: { count: 1, id: "minecraft:bone_block" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6F9A0ECC301DCD3B"]
+			id: "2E2B9AF215675A16"
+			tasks: [
+				{
+					consume_items: false
+					id: "0525B7BB2F590342"
+					item: { count: 1, id: "minecraft:crafter" }
+					type: "item"
+				}
+				{
+					id: "648BB36CA79D624E"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 4.0d
+		}
+	]
+}

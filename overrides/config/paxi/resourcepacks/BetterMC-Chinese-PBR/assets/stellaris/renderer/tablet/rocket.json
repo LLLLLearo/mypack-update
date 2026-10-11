@@ -1,0 +1,144 @@
+{
+  "description": "造火箭与准备发射",
+  "hoverIcon": "stellaris:textures/gui/tablet/rocket_page_hover.png",
+  "icon": "stellaris:textures/gui/tablet/rocket_page.png",
+  "id": "rocket",
+  "infos": [
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "把火箭部件放入装配站，组装火箭。[br][br]本包发动机需要蜂蜜和生物材料，配方列表显示具体材料。已有工厂可以供应部件。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:rocket_station"
+            }
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "height": 125,
+            "location": "stellaris:textures/gui/tablet/images/rocket_station",
+            "width": 166
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "rocket_station",
+      "title": "火箭装配站"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "基础火箭型号，可搭载 1 个实体。[br][br]多人同时远征时，各自安排火箭或先升级运力。不要只看队伍任务已经完成。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:tiny_rocket_upgrade"
+            }
+          }
+        },
+        {
+          "type": "entity",
+          "entity": {
+            "id": "stellaris:tiny_rocket",
+            "scale": 10
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "tiny_rocket",
+      "title": "微型火箭"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "小型火箭可搭载 2 个实体。[br][br]按当前升级配方准备材料，再核对实际乘员和燃料。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:small_rocket_upgrade"
+            }
+          }
+        },
+        {
+          "type": "entity",
+          "entity": {
+            "id": "stellaris:small_rocket",
+            "scale": 10
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "small_rocket",
+      "title": "小型火箭"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "给[ref=rocket:tiny_rocket]火箭应用外观，改变它的样子。[br][br]外观不替代燃料、氧气和适用装备。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:skin_frozy"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:skin_galaxy"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:skin_military"
+            }
+          }
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:skin_rusty"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "skins",
+      "title": "火箭外观"
+    }
+  ]
+}

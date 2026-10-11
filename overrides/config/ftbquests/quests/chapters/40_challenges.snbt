@@ -1,0 +1,274 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "40_challenges"
+	group: "53679B3D8B9D2B7A"
+	id: "03E93795A9A740B0"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0D15D4AEB157A45A"
+			tasks: [{
+				id: "4FA96B8AB7CBB458"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D15D4AEB157A45A"]
+			id: "1A761D5F232A22ED"
+			rewards: [{
+				auto: "disabled"
+				id: "036CF507A737AA84"
+				table_id: 6068984984512044972L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "641C9321DA7C76A6"
+					item: { count: 1, id: "exposure:album" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "56BEFE282D74F8D2"
+					item: { count: 1, id: "exposure:photograph" }
+					type: "item"
+				}
+				{
+					id: "48E4ADE26C9331D7"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D15D4AEB157A45A"]
+			id: "795734FACEAFF470"
+			rewards: [{
+				auto: "disabled"
+				id: "201A528F0EA301A6"
+				table_id: 6068984984512044972L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 4L
+					id: "66AB564322320C0D"
+					item: { count: 1, id: "minecraft:honey_block" }
+					type: "item"
+				}
+				{
+					id: "56D1BE45D7063AB9"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0D15D4AEB157A45A"]
+			id: "59EDB0BEA887323C"
+			rewards: [{
+				auto: "disabled"
+				id: "5B748E2EB7233A41"
+				table_id: 6068984984512044972L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 16L
+					id: "01C2E045668A72AA"
+					item: { count: 1, id: "tide:fish_bone" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "52360E542BA78887"
+					item: { count: 1, id: "minecraft:bone_meal" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0D15D4AEB157A45A"]
+			id: "3F89A077440277D2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78F2983461DD624A"
+				type: "random"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 16L
+					id: "4FD3D56941EEB0AF"
+					item: { count: 1, id: "oritech:biosteel_ingot" }
+					type: "item"
+				}
+				{
+					id: "3DA7F924B6985DFC"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0D15D4AEB157A45A"]
+			id: "3D8FD0C8C39BDAEA"
+			rewards: [{
+				auto: "disabled"
+				id: "7189AB02E5C44CC9"
+				table_id: 6068984984512044972L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [
+				{
+					dimension: "aether:the_aether"
+					id: "3310294227D07162"
+					type: "dimension"
+				}
+				{
+					consume_items: false
+					count: 2L
+					id: "0645D2753FDBEDCB"
+					item: { count: 1, id: "aether:aerogel" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "186A3AB4DD4879F8"
+					item: { count: 1, id: "aether:enchanted_gravitite" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "67FDCA56916D56FA"
+					item: { count: 1, id: "exposure:photograph" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3FAA66240A902BF5"]
+			id: "3C3958182528DB29"
+			rewards: [{
+				auto: "disabled"
+				id: "4E42038044A7B04B"
+				table_id: 6068984984512044972L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 8L
+					id: "2525174BAE725014"
+					item: { count: 1, id: "stellaris:raw_desh_ingot" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "03442D022FCB8D22"
+					item: { count: 1, id: "exposure:photograph" }
+					type: "item"
+				}
+				{
+					id: "1956FB1326E9C39F"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2B4B41DE4713414B"]
+			id: "6898A0573027B06F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0AC919C6E311D11A"
+				type: "random"
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 16L
+					id: "6B7084BB51007EF6"
+					item: { count: 1, id: "oritech:plastic_sheet" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "19740F81A7B1CD8F"
+					item: { count: 1, id: "oritech:flux_gate" }
+					type: "item"
+				}
+				{
+					id: "4BA0C0D48B56C2CE"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0D15D4AEB157A45A"]
+			id: "3DF3039C86BD7AE3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "773711F2E9BD3A16"
+					type: "random"
+				}
+				{
+					auto: "disabled"
+					id: "434CF6324671E176"
+					table_id: 6068984984512044972L
+					team_reward: false
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					entity: "aether:slider"
+					id: "3A1097B52F88F59F"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "aether:valkyrie_queen"
+					id: "782FCBDF0968F682"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:zombie"
+					id: "18AE15298264790A"
+					type: "kill"
+					value: 100L
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+	]
+}

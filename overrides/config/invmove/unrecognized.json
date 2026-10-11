@@ -82,7 +82,33 @@
     "com.aetherteam.aether.client.gui.screen.inventory.AetherAccessoriesScreen": true,
     "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
     "com.aetherteam.aether.client.gui.screen.inventory.LoreBookScreen": true,
-    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": true
+    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": true,
+    "net.conczin.mca.client.gui.DestinyScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "rearth.oracle.ui.OracleScreen": true,
+    "rearth.oritech.client.ui.UpgradableOritechScreen": true,
+    "com.st0x0ef.stellaris.client.screens.tablet.TabletEntryScreen": true,
+    "com.st0x0ef.stellaris.client.screens.tablet.TabletMainScreen": true,
+    "net.conczin.mca.client.gui.SkinLibraryScreen": true,
+    "com.st0x0ef.stellaris.client.screens.PumpjackScreen": true,
+    "com.st0x0ef.stellaris.client.screens.UpgradeStationScreen": true,
+    "com.st0x0ef.stellaris.client.screens.PlanetSelectionScreen": true,
+    "com.st0x0ef.stellaris.client.screens.RocketStationScreen": true,
+    "rearth.oritech.client.ui.AugmentSelectionScreen": true,
+    "fr.tathan.sky_aesthetics.client.screens.SkyModificationScreen": true,
+    "rearth.oracle.ui.SearchScreen": true,
+    "com.st0x0ef.stellaris.client.screens.WaterSeparatorScreen": true,
+    "com.st0x0ef.stellaris.client.screens.RocketScreen": true,
+    "rearth.oritech.client.ui.OritechMachineScreen": true,
+    "com.st0x0ef.stellaris.client.screens.LanderScreen": true,
+    "com.st0x0ef.stellaris.client.screens.AntennaScreen": true,
+    "rearth.oritech.client.ui.PlayerModifierScreen": true,
+    "rearth.oritech.client.ui.DroneScreen": true,
+    "net.conczin.mca.client.gui.InteractScreen": true,
+    "com.st0x0ef.stellaris.client.screens.GalaxyScreen": true,
+    "net.conczin.mca.client.gui.VillagerEditorScreen": true,
+    "net.conczin.mca.client.gui.FamilyTreeScreen": true,
+    "net.conczin.mca.client.gui.BlueprintScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_5522": true,
@@ -92,6 +118,12 @@
     "com.b1n_ry.yigd.client.gui.screens.PlayerSelectionScreen": true,
     "com.b1n_ry.yigd.client.gui.screens.GraveOverviewScreen": true,
     "com.li64.tide.client.gui.screens.journal.FishingJournal": true,
-    "xaero.pac.client.gui.MainMenu": true
+    "xaero.pac.client.gui.MainMenu": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "com.st0x0ef.stellaris.client.screens.tablet.TabletEntryScreen": true,
+    "rearth.oritech.client.ui.AugmentSelectionScreen": true,
+    "net.conczin.mca.client.gui.VillagerEditorScreen": true,
+    "net.conczin.mca.client.gui.FamilyTreeScreen": true,
+    "net.conczin.mca.client.gui.BlueprintScreen": true
   }
 }

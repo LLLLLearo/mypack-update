@@ -1,0 +1,61 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "00_start"
+	group: "53679B3D8B9D2B7A"
+	id: "3DF5B918E2C6AC42"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6F9A0ECC301DCD3B"
+			tasks: [{
+				id: "30E79773785FFCB8"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F9A0ECC301DCD3B"]
+			id: "682A0497134EB9D2"
+			tasks: [{
+				id: "66C025F4DAF9FDCB"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F9A0ECC301DCD3B"]
+			id: "62513B00DC1715B8"
+			tasks: [{
+				consume_items: false
+				id: "4DA4931B5BAF7B0B"
+				item: { count: 1, id: "stellaris:tablet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "7712A75FBF0A7A00"
+			tasks: [{
+				id: "77B04DF85BA49901"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "7CC728E50033208F"
+			tasks: [{
+				id: "6F0A7F63F6D5A3ED"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+}

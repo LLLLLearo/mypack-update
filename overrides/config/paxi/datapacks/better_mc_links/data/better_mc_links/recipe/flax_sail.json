@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "FFF",
+    "FLF",
+    "RLR"
+  ],
+  "key": {
+    "F": {
+      "item": "supplementaries:flax"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "R": {
+      "item": "supplementaries:rope"
+    }
+  },
+  "result": {
+    "id": "smallships:sail",
+    "count": 1
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "description": "星球生物图鉴",
+  "hoverIcon": "stellaris:textures/gui/tablet/mob_page_hover.png",
+  "icon": "stellaris:textures/gui/tablet/mob_page.png",
+  "id": "mobs",
+  "infos": [
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "月球上的被动生物。[br][br]手册记录的基础属性：生命值 20，移动速度 0.5。"
+        },
+        {
+          "type": "entity",
+          "entity": {
+            "id": "stellaris:alien",
+            "scale": 25
+          }
+        }
+      ],
+      "iconType": "entity",
+      "id": "alien",
+      "title": "外星人"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "月球上的敌对生物。[br][br]手册记录的基础属性：生命值 20，移动速度 0.3，攻击伤害 3。"
+        },
+        {
+          "type": "entity",
+          "entity": {
+            "id": "stellaris:alien_zombie",
+            "scale": 25
+          }
+        }
+      ],
+      "iconType": "entity",
+      "id": "alien_zombie",
+      "title": "外星僵尸"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "月球上的敌对生物。[br][br]手册记录的基础属性：生命值 40，移动速度 0.4，攻击伤害 9。"
+        },
+        {
+          "type": "entity",
+          "entity": {
+            "id": "stellaris:star_crawler",
+            "scale": 25
+          }
+        }
+      ],
+      "iconType": "entity",
+      "id": "star_crawler",
+      "title": "星际爬行者"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "火星上的敌对生物。[br][br]手册记录的基础属性：生命值 20，移动速度 0.3，攻击伤害 3。"
+        },
+        {
+          "type": "entity",
+          "entity": {
+            "id": "stellaris:martian_raptor",
+            "scale": 25
+          }
+        }
+      ],
+      "iconType": "entity",
+      "id": "martian_raptor",
+      "title": "火星迅猛兽"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "水星上的被动生物。[br][br]手册记录的基础属性：生命值 16，移动速度 0.35。"
+        },
+        {
+          "type": "entity",
+          "entity": {
+            "id": "stellaris:pygro",
+            "scale": 25
+          }
+        }
+      ],
+      "iconType": "entity",
+      "id": "pygro",
+      "title": "皮格罗"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "水星上的敌对生物。[br][br]手册记录的基础属性：生命值 16，移动速度 0.35，攻击伤害 5。"
+        },
+        {
+          "type": "entity",
+          "entity": {
+            "id": "stellaris:pygro_brute",
+            "scale": 25
+          }
+        }
+      ],
+      "iconType": "entity",
+      "id": "pygro_brute",
+      "title": "皮格罗蛮兵"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "金星上的敌对生物。[br][br]手册记录的基础属性：生命值 40，移动速度 0.3，攻击伤害 6。"
+        },
+        {
+          "type": "entity",
+          "entity": {
+            "id": "stellaris:mogler",
+            "scale": 25
+          }
+        }
+      ],
+      "iconType": "entity",
+      "id": "mogler",
+      "title": "莫格勒"
+    }
+  ]
+}

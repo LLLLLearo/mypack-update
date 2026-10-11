@@ -1,0 +1,40 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "60_mca_chat"
+	group: "1F9E64CA2F74F2AC"
+	icon: {
+		id: "minecraft:writable_book"
+	}
+	id: "0C34DFF90D2950EB"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:writable_book"
+			}
+			id: "54FFCF66C353F783"
+			tasks: [{
+				id: "2F1348EA932DCD06"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54FFCF66C353F783"]
+			icon: {
+				id: "minecraft:poppy"
+			}
+			id: "2FC50895E45969F5"
+			tasks: [{
+				id: "60D4FD91E6365E5F"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+  "removed": [
+    "item:stellaris:coal_generator",
+    "item:stellaris:steel_ingot",
+    "item:stellaris:steel_block",
+    "item:stellaris:raw_uranium",
+    "item:stellaris:raw_uranium_block",
+    "item:stellaris:steel_ore",
+    "item:stellaris:deepslate_steel_ore",
+    "item:stellaris:moon_steel_ore"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+	id: "54395DB045051FAC"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "15BEE266D4BE98B3", item: { count: 1, id: "artifacts:anglers_hat" } }
+		{ id: "46B0127621355AEE", item: { count: 1, id: "artifacts:bunny_hoppers" } }
+		{ id: "7AE25963D6797F85", item: { count: 1, id: "artifacts:cloud_in_a_bottle" } }
+		{ id: "1F7B131C93E702A6", item: { count: 1, id: "artifacts:flippers" } }
+		{ id: "083A788EB402FB8F", item: { count: 1, id: "artifacts:running_shoes" } }
+		{ id: "00549714A35C6AAE", item: { count: 1, id: "artifacts:umbrella" } }
+		{ id: "0EDEB7859C338E12", item: { count: 1, id: "artifacts:plastic_drinking_hat" } }
+		{ id: "78453E1673CD6923", item: { count: 1, id: "artifacts:villager_hat" } }
+		{ id: "02D8286BE361AE55", item: { count: 1, id: "artifacts:snorkel" } }
+		{ id: "2CFF6CA34D3A66EB", item: { count: 1, id: "artifacts:snowshoes" } }
+		{ id: "6B4F0D23074E91EF", item: { count: 1, id: "artifacts:digging_claws" } }
+		{ id: "3FEC1FF978BB2230", item: { count: 1, id: "artifacts:night_vision_goggles" } }
+		{ id: "4159C1EB142046E7", item: { count: 1, id: "artifacts:panic_necklace" } }
+		{ id: "57C37596FAB2FB63", item: { count: 1, id: "artifacts:universal_attractor" } }
+		{ id: "3A3A7808AD7E984D", item: { count: 1, id: "artifacts:whoopee_cushion" } }
+	]
+	use_title: true
+}

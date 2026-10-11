@@ -1,0 +1,113 @@
+{
+  "description": "星球环境与远征目标",
+  "hoverIcon": "stellaris:textures/gui/tablet/planets_page_hover.png",
+  "icon": "stellaris:textures/gui/tablet/planets_page.png",
+  "id": "planets",
+  "infos": [
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "高温、无氧的星球。[br][br]温度 430℃，重力 3.7，无氧气。出发前确认装备适用并备好返程物资。[br][br]本包新生成的铀矿统一为工业铀矿，普通开采出统一的粗铀。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:mercury_globe"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "mercury",
+      "title": "水星"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "你们原来的基地所在的世界。[br][br]温度 15℃，重力 9.8，有氧气。[br][br]准备工厂、食物罐、氧气和燃料后，前往[ref=planets:moon]月球开始远征。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:earth_globe"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "earth",
+      "title": "地球／主世界"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "寒冷、无氧的星球。[br][br]温度 -63℃，重力 3.7，无氧气。采集目标按当前设备配方安排。[br][br]粗萨西特可以带回工业粉碎机，1 个加工成 2 萨西特锭。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:mars_globe"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "mars",
+      "title": "火星"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "高温、无氧的星球。[br][br]温度 470℃，重力 8.9，无氧气。[br][br]先确认装备、氧气、食物与返程。小型勘探站跑通供给后，再扩大基地。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:venus_globe"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "venus",
+      "title": "金星"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "地球的卫星，寒冷、无氧、重力较低。[br][br]温度 -63℃，重力 1.6，无氧气。[br][br]戴斯、冰晶与铁是常见采集目标。先记落点和返程办法，再外出勘探。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:moon_globe"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "moon",
+      "title": "月球"
+    }
+  ]
+}

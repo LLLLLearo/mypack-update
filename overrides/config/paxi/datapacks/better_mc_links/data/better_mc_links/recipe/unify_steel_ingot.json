@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "stellaris:steel_ingot"
+    }
+  ],
+  "result": {
+    "id": "oritech:steel_ingot",
+    "count": 1
+  }
+}

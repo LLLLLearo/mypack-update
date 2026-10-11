@@ -1,0 +1,24 @@
+{
+  "type": "oritech:assembler",
+  "ingredients": [
+    {
+      "tag": "c:ingots/steel"
+    },
+    {
+      "tag": "c:ingots/steel"
+    },
+    {
+      "item": "aether:aerogel"
+    },
+    {
+      "item": "oritech:plastic_sheet"
+    }
+  ],
+  "results": [
+    {
+      "id": "stellaris:big_oxygen_tank",
+      "count": 1
+    }
+  ],
+  "time": 240
+}

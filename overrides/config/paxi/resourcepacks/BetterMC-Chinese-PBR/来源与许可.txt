@@ -1,0 +1,16 @@
+私人整合包资源补丁 v0.2
+
+Oritech 1.2.13 与 Oracle Index 1.4.0：Rearth，CC0-1.0。
+中文手册来自已安装 Oritech JAR 的 zh_cn 文档，并统一术语、补入本包教程与缺失页面。
+项目：https://github.com/Rearth/Oritech/ 与 https://github.com/Rearth/Oracle-Index
+
+Stellaris 1.4.25：The Stellaris Team，CC BY-NC-SA 4.0。
+中文平板由已安装资源中的英文说明改写；方块材质辅助图根据原贴图生成。此部分衍生资源沿用 CC BY-NC-SA 4.0。
+项目：https://github.com/st0x0ef/stellaris
+许可：https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+其余辅助材质数据来自本地 Supplementaries、Tide、Ecologics、Exposure 的方块图像。
+仅新增法线与材质参数，保留原模组颜色贴图。该补丁供此私人整合包使用；公开再分发前须逐项复核上游许可。
+
+LabPBR 数据格式：https://shaderlabs.org/wiki/LabPBR_Material_Standard
+任务底稿：Stellar Roots 2，Rizorce，MIT；沿用 v0.1 的来源与改编记录。

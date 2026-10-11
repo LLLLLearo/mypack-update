@@ -1,0 +1,77 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "61_mca_blueprint"
+	group: "1F9E64CA2F74F2AC"
+	icon: {
+		id: "mca:blueprint"
+	}
+	id: "6B48A19885CA3DC8"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "mca:blueprint"
+			}
+			id: "1BBF337AF167F38B"
+			tasks: [{
+				consume_items: false
+				id: "383DDBD3751B875A"
+				item: { count: 1, id: "mca:blueprint" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1BBF337AF167F38B"]
+			icon: {
+				id: "minecraft:oak_door"
+			}
+			id: "40B23EA6BFDD515F"
+			tasks: [{
+				id: "0E61DDE0CB737ABE"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40B23EA6BFDD515F"]
+			icon: {
+				id: "minecraft:red_bed"
+			}
+			id: "0FF560FE608DAAE3"
+			tasks: [{
+				id: "70FC748AFCA81C7D"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0FF560FE608DAAE3"]
+			icon: {
+				id: "minecraft:white_bed"
+			}
+			id: "1DFFB0FAEAFFBEFD"
+			rewards: [{
+				count: 16
+				id: "313025DAF1F7FE30"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D2C71074766117A"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+}

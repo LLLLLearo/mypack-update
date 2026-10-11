@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "HMH",
+    "SBS",
+    "SPS"
+  ],
+  "key": {
+    "H": {
+      "tag": "c:storage_blocks/heavy_metal"
+    },
+    "M": {
+      "item": "oritech:motor"
+    },
+    "S": {
+      "tag": "c:ingots/steel"
+    },
+    "B": {
+      "item": "minecraft:honey_block"
+    },
+    "P": {
+      "item": "oritech:raw_biopolymer"
+    }
+  },
+  "result": {
+    "id": "stellaris:rocket_engine",
+    "count": 1
+  }
+}

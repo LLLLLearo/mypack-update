@@ -1,0 +1,292 @@
+{
+  "description": "设备与材料：怎么用",
+  "hoverIcon": "stellaris:textures/gui/tablet/book_page_hover.png",
+  "icon": "stellaris:textures/gui/tablet/book_page.png",
+  "id": "items",
+  "infos": [
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "手持找油器右击地面，检查当前区块是否有地下石油。[br][br]有油才放抽油机。旧区块也能在首次读取时初始化油量；抽干后不会自动恢复。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:oil_finder"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "oil_finder",
+      "title": "找油器"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "太空里的随身饭盒。小罐最多储存 10 点营养，普通罐最多 20 点。[br][br]在[ref=items:vacuumator]真空装罐机的前三个槽位依次放：空罐、食物、空玻璃瓶。加工后得到装好食物的罐与水瓶。[br][br]本包开启太空罐头限制，出发前别只带普通食物。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:big_blue_can"
+            }
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "height": 97,
+            "location": "stellaris:textures/gui/tablet/images/vacuumator_recipe",
+            "width": 136
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "cans",
+      "title": "食物罐"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "接电后，把水放入界面第二个槽位，机器会生产氢气与氧气。[br][br]在对应储槽下方放桶可收集产物。给氧气罐充氧时，先核对界面与容器位置。[br][br]空罐不会自动有氧气，每位航天员都要检查自己的储量。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:water_separator"
+            }
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "height": 64,
+            "location": "stellaris:textures/gui/tablet/images/water_separator",
+            "width": 128
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "water_separator",
+      "title": "水分离机"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "把食物做成能在太空使用的食物罐。[br][br]前三个槽位依次放：空罐、食物、空玻璃瓶。得到食物罐与水瓶。[br][br]先试一份，再给每位出发的人备好饭盒。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:vacuumator"
+            }
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "height": 64,
+            "location": "stellaris:textures/gui/tablet/images/vacuumator",
+            "width": 128
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "vacuumator",
+      "title": "真空装罐机"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "需要供电。输入本模组的原油，生产火箭燃料与柴油；在产物槽放桶，或用对应管道收集。[br][br]火箭加火箭燃料，柴油可接入工业用途。两种产物分罐储存。[br][br]跨模组送油用航天管道向工业储罐推送，当前版本不要用工业管道反向抽取。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:fuel_refinery"
+            }
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "height": 64,
+            "location": "stellaris:textures/gui/tablet/images/fuel_refinery",
+            "width": 128
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "fuel_refinery",
+      "title": "燃料精炼机"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "白天暴露在阳光下可以发电。发电量较小，适合补电；界面会显示实际输出。[br][br]多种发电方式有各自的用途，本包统一了燃煤设备的制作入口。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:solar_panel"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "solar_panel",
+      "title": "太阳能板"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "消耗对应的放射性材料发电，例如铀锭及受支持的放射性方块。[br][br]先查看燃料用途与界面消耗，再接持续供料。这台设备与工业多方块反应堆的规模和运行方式不同。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:radioactive_generator"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "radioactive_generator",
+      "title": "放射性发电机"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "为房间提供可呼吸环境。需要供电并持续供应氧气，可先用[ref=items:water_separator]水分离机给氧气罐充氧，再按界面投入。[br][br]先测试一个小房间的效果与供给。本包房间范围上限配置为 32；第一次试验仍穿着航天服。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:oxygen_distributor"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "oxygen_distributor",
+      "title": "氧气分配器"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "先用[ref=items:oil_finder]找油器检查区块的油量，再把抽油机放在有油的区块。[br][br]连接电源，观察电量和出油。及时接储罐，避免输出堵塞。[br][br]跨模组交接：航天管道→工业储罐→工业内部管道。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:pumpjack"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "pumpjack",
+      "title": "抽油机"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "在能源设备与用电机器之间传输电力。[br][br]接好后检查机器的电量有没有增加。跨模组起步推荐工业电源向航天机器供电，储能块要使用输出面。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:cable"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "cable",
+      "title": "电缆"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "在 3×3 发射台上，手持天线右击已组成平台的台面，可设置目的地发射点。[br][br]需要的空间应为空气或可被天线替换的方块。右击平台可以访问天线设置。[br][br]联机注意平台的所有者和共享权限。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:antenna"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "antenna",
+      "title": "发射台天线"
+    },
+    {
+      "components": [
+        {
+          "type": "text",
+          "text": "把 9 个发射台铺成 3×3 平台。[br][br]手持火箭右击平台放置火箭；手持[ref=items:antenna]天线右击可配置发射点。[br][br]加好燃料、检查装备和返程方案后，再启动。"
+        },
+        {
+          "type": "item",
+          "item": {
+            "size": 32.0,
+            "stack": {
+              "count": 1,
+              "id": "stellaris:rocket_launch_pad"
+            }
+          }
+        }
+      ],
+      "iconType": "item",
+      "id": "rocket_launch_pad",
+      "title": "火箭发射台"
+    }
+  ]
+}
