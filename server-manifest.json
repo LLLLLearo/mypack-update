@@ -1,7 +1,7 @@
 {
   "name": "[1.21.1Fabric]Better MC",
   "author": "LLLLLearo",
-  "version": "3.3",
+  "version": "3.3.1",
   "description": "",
   "fileApi": "https://gh-proxy.com/https://raw.githubusercontent.com/LLLLLearo/mypack-update/main",
   "files": [
@@ -291,7 +291,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "82c4791baec5a0efe12385d36262476eb9ea1fbb"
+      "hash": "39adf37219077120681b4daee7b2d87c6176e8a7"
     },
     {
       "path": "config/fancymenu/assets/ae.png",
@@ -375,7 +375,7 @@
     },
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "hash": "778d2f97532006fe276e584107929b1c8ac7015e"
+      "hash": "546e4a9f7572710f47cbd05d47a01d21cfc8a1a5"
     },
     {
       "path": "config/fancymenu/custom_gui_screens.txt",
@@ -491,7 +491,7 @@
     },
     {
       "path": "config/ftbquests/quests/chapters/00_start.snbt",
-      "hash": "5312cda19d677b2e176940b9404c2907ecffb98a"
+      "hash": "065c1d47be7500aea62e0adc8511d547c972ca4f"
     },
     {
       "path": "config/ftbquests/quests/chapters/10_oritech.snbt",
@@ -611,7 +611,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "f1215a7352fce20421b566a37ba947fa861e9160"
+      "hash": "7a5cb0ccc0dacea928956e18468de63b067e818e"
     },
     {
       "path": "config/itemphysiclite-client.json",
@@ -798,10 +798,6 @@
       "hash": "155073aea55d3a32118fcc243746c41765e8530f"
     },
     {
-      "path": "config/mcef/mcef.properties",
-      "hash": "2f752fd32f4b06e7f48c3feb6d88aef306854128"
-    },
-    {
       "path": "config/midnightlib.json",
       "hash": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db"
     },
@@ -887,7 +883,7 @@
     },
     {
       "path": "config/packetfixer.properties",
-      "hash": "41fdaf5627742e96821a1cdfb0249850ccff0966"
+      "hash": "9d09e3421cd04170f50ca52cc140de4dce6b65e3"
     },
     {
       "path": "config/particle_core_config.toml",
@@ -14263,7 +14259,7 @@
     },
     {
       "path": "config/zfastnoise.mixin.properties",
-      "hash": "03d9d8e6a62bcb145c8c00aa1565777b77f4b513"
+      "hash": "8ea9a5b1c930c0875d60dedc2ef5ab1647c25cd3"
     },
     {
       "path": "config/zoomify.json",
@@ -14698,10 +14694,6 @@
       "hash": "0e2eb7b0fdf75ff0563b5d1ee4f91f22a62d230f"
     },
     {
-      "path": "mods/mcef-fabric-2.1.6-1.21.1.jar",
-      "hash": "68f9c951b02e864ac6a0b9d4a60c8547d326eb26"
-    },
-    {
       "path": "mods/mcwifipnp-1.9.0-1.21-fabric.jar",
       "hash": "71ef610d7e905dcd3737a8baa7a592b9cd7c180c"
     },
@@ -15119,7 +15111,7 @@
     },
     {
       "path": "shaderpacks/[Medium]photon_v1.3b.zip.txt",
-      "hash": "d317e27d8f8a05c63ce502b1c85df1d73c3fcaa3"
+      "hash": "fb22964cef56fb2450ece9472e272b0d3d0fccb9"
     },
     {
       "path": "shaderpacks/[Potato]Sildur\u0027s Enhanced Default v1.19 Fancy.zip",

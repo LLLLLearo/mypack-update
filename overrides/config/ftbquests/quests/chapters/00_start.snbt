@@ -40,22 +40,24 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["6F9A0ECC301DCD3B"]
 			id: "7712A75FBF0A7A00"
 			tasks: [{
 				id: "77B04DF85BA49901"
 				type: "checkmark"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: 2.0d
+			y: 2.0d
 		}
 		{
+			dependencies: ["7712A75FBF0A7A00"]
 			id: "7CC728E50033208F"
 			tasks: [{
 				id: "6F0A7F63F6D5A3ED"
 				type: "checkmark"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: 4.0d
+			y: 2.0d
 		}
 	]
 }
