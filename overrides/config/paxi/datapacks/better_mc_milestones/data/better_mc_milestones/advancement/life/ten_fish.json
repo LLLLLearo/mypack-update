@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:fishing_rod"
+    },
+    "title": {
+      "text": "十种新面孔"
+    },
+    "description": {
+      "text": "向钓鱼协会提交十种不同的鱼。\n个人提交十种不同的鱼。"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "submitted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "submitted"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:life/root"
+}

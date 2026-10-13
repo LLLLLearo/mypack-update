@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "stellaris:moon_stone"
+    },
+    "title": {
+      "text": "月球明信片"
+    },
+    "description": {
+      "text": "这张风景照，寄自月球。\n在月球完成一次拍摄。"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "shot": {
+      "trigger": "exposure:frame_exposed",
+      "conditions": {
+        "camera": {
+          "location": {
+            "dimension": "stellaris:moon"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "shot"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:life/root"
+}

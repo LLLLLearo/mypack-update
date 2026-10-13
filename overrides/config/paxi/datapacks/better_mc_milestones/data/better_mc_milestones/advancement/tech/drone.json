@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "oritech:drone_port_block"
+    },
+    "title": {
+      "text": "无人机，去上班"
+    },
+    "description": {
+      "text": "下一趟货，也许不用自己跑了。\n获得无人机港。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oritech:drone_port_block"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_1"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/steel"
+}

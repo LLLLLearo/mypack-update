@@ -1,0 +1,53 @@
+{
+  "display": {
+    "icon": {
+      "id": "oritech:adamant_ingot"
+    },
+    "title": {
+      "text": "合金进阶"
+    },
+    "description": {
+      "text": "精镍与杜拉，新的材料选择。\n分别获得精镍锭与杜拉锭。"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oritech:adamant_ingot"
+            ]
+          }
+        ]
+      }
+    },
+    "item_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oritech:duratium_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_1"
+    ],
+    [
+      "item_2"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/carbon"
+}

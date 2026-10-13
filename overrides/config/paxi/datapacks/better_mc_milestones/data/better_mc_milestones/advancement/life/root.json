@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "exposure:camera"
+    },
+    "title": {
+      "text": "旅行与生活"
+    },
+    "description": {
+      "text": "把旅行、邻里与收获，留在自己的故事里。"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "enter": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "enter"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

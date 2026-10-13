@@ -47,7 +47,7 @@
 			dependencies: ["3FAA66240A902BF5"]
 			id: "46719253B2BFDDAC"
 			tasks: [{
-				dimension: "minecraft:the_nether"
+				dimension: "stellaris:mercury"
 				id: "5772FD5E3BF1838D"
 				type: "dimension"
 			}]
@@ -57,7 +57,7 @@
 		{
 			id: "69D84A5B93D06E14"
 			tasks: [{
-				dimension: "minecraft:the_nether"
+				dimension: "stellaris:mars"
 				id: "7CC983F95C6CBE80"
 				type: "dimension"
 			}]

@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "oritech:energite_ingot"
+    },
+    "title": {
+      "text": "辐镍晶"
+    },
+    "description": {
+      "text": "开始接触高阶工业材料。\n获得辐镍晶锭。"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oritech:energite_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_1"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/alloys"
+}

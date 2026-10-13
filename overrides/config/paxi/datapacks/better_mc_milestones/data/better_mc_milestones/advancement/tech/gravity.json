@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:elytra"
+    },
+    "title": {
+      "text": "地心引力？"
+    },
+    "description": {
+      "text": "从今天起，天空也是活动范围。\n安装「御风之术」，获得自由飞行能力。"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "installed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "installed"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/home_return"
+}

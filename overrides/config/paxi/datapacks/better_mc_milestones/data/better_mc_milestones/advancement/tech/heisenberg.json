@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "oritech:heisenberg_compensator"
+    },
+    "title": {
+      "text": "不确定性，暂时解决"
+    },
+    "description": {
+      "text": "把复杂原理做成能拿在手里的部件。\n获得海森堡补偿器。"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "item_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oritech:heisenberg_compensator"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_1"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/energite"
+}

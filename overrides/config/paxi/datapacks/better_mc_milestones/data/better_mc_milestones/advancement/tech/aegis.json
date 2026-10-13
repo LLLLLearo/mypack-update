@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:netherite_chestplate"
+    },
+    "title": {
+      "text": "宙斯盾系统"
+    },
+    "description": {
+      "text": "这一层防护，来自科技。\n安装「宙斯盾系统」。"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "installed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "installed"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/home_return"
+}

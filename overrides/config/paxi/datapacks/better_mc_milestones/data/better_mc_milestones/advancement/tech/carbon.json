@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "oritech:carbon_fibre_strands"
+    },
+    "title": {
+      "text": "这不是棉花"
+    },
+    "description": {
+      "text": "看着轻，往后用处可不轻。\n获得碳纤维。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oritech:carbon_fibre_strands"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_1"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/biosteel"
+}

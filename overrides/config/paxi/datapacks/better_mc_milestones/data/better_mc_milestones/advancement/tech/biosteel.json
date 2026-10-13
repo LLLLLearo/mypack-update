@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "oritech:biosteel_ingot"
+    },
+    "title": {
+      "text": "庄稼也能炼钢"
+    },
+    "description": {
+      "text": "田里的收获，走进了工厂。\n获得生物钢锭。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oritech:biosteel_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_1"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/steel"
+}

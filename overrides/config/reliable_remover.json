@@ -24,6 +24,7 @@
     "smallships:aether_skyroot_cog",
     "smallships:aether_skyroot_brigg",
     "smallships:aether_skyroot_drakkar",
-    "smallships:aether_skyroot_galley"
+    "smallships:aether_skyroot_galley",
+    "oritech:portable_laser"
   ]
 }

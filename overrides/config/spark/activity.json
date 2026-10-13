@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "LLLLLearo",
+      "uniqueId": "6d7aaad7-51d4-4d94-8377-8659b29d9e53"
+    },
+    "time": 1791817629538,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/AS3HUDp6fl"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LLLLLearo",
+      "uniqueId": "6d7aaad7-51d4-4d94-8377-8659b29d9e53"
+    },
+    "time": 1791817628829,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4XOcgMLFP4"
+    }
+  }
+]

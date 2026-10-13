@@ -1,0 +1,53 @@
+{
+  "display": {
+    "icon": {
+      "id": "aether_treasure_reforging:valkyrum_ingot"
+    },
+    "title": {
+      "text": "宝藏的第二份工作"
+    },
+    "description": {
+      "text": "重复宝物，也有新的去向。\n分别获得武神金属锭与烈金锭。"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aether_treasure_reforging:valkyrum_ingot"
+            ]
+          }
+        ]
+      }
+    },
+    "item_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aether_treasure_reforging:pyral_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_1"
+    ],
+    [
+      "item_2"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:life/aerbunny_photo"
+}

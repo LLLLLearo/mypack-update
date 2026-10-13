@@ -1,7 +1,7 @@
 {
   "name": "[1.21.1Fabric]Better MC",
   "author": "LLLLLearo",
-  "version": "3.3.1",
+  "version": "3.3.5",
   "description": "",
   "fileApi": "https://gh-proxy.com/https://raw.githubusercontent.com/LLLLLearo/mypack-update/main",
   "files": [
@@ -291,7 +291,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "39adf37219077120681b4daee7b2d87c6176e8a7"
+      "hash": "bf77f2e16ae4731b3d90d6550555d4ceb70e97ab"
     },
     {
       "path": "config/fancymenu/assets/ae.png",
@@ -311,7 +311,7 @@
     },
     {
       "path": "config/fancymenu/assets/update_log.txt",
-      "hash": "627e1f2032d22c2575b7298f98af237c73f6d711"
+      "hash": "fbf6bc7409e37a1cda8af56d0a840a292007e105"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
@@ -503,7 +503,7 @@
     },
     {
       "path": "config/ftbquests/quests/chapters/30_stellaris.snbt",
-      "hash": "ffabdf4387413e183ca572cf81976f1255f0c7e2"
+      "hash": "097f7b3c51b436a3fbf4166a76fdb9a871ab7632"
     },
     {
       "path": "config/ftbquests/quests/chapters/40_challenges.snbt",
@@ -539,11 +539,11 @@
     },
     {
       "path": "config/ftbquests/quests/lang/en_us.snbt",
-      "hash": "6c11f2e991e798f3ac2f417e914da8e5ee8941d6"
+      "hash": "6e391c4e020f213f0097cea4af8f7cd547a2f22e"
     },
     {
       "path": "config/ftbquests/quests/lang/zh_cn.snbt",
-      "hash": "6c4bc73b4500a714b54c005a5909caa02e8cd851"
+      "hash": "7c6d5ea0574c96aa7354024fc18f6003dffcd6ff"
     },
     {
       "path": "config/ftbquests/quests/reward_tables/explorer_artifacts.snbt",
@@ -595,7 +595,7 @@
     },
     {
       "path": "config/invmove/unrecognized.json",
-      "hash": "99ae75ce053df3b71ac0dc9d4be77ea4ead19bdd"
+      "hash": "388f81cdbb81159d9f1c24d2fa04a1552b8a977d"
     },
     {
       "path": "config/invmove/vanilla.json",
@@ -611,7 +611,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "7a5cb0ccc0dacea928956e18468de63b067e818e"
+      "hash": "bd946908339ee7b25b340abebd28727f996f45b1"
     },
     {
       "path": "config/itemphysiclite-client.json",
@@ -639,7 +639,7 @@
     },
     {
       "path": "config/jade/usernamecache.json",
-      "hash": "c19da34463ced4fbe656320513e87e5d91d3620c"
+      "hash": "ac9c10b7df0ef73292a12dfa077423cde0b4bafa"
     },
     {
       "path": "config/jecharacters-extra.json",
@@ -691,7 +691,7 @@
     },
     {
       "path": "config/leawind_third_person.json",
-      "hash": "e17afc1b04449ab9c2f9eddb34abb0d35ca2aee3"
+      "hash": "5fa41a0d669af6d183edbe52918ac582a5cb6704"
     },
     {
       "path": "config/libgui.json5",
@@ -722,7 +722,19 @@
       "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
     },
     {
+      "path": "config/litematica/litematica_新的世界1212121_dim_aether_the_aether.json",
+      "hash": "05659cfe990452c0724fed43871164c07113285e"
+    },
+    {
       "path": "config/litematica/litematica_新的世界1212121_dim_minecraft_overworld.json",
+      "hash": "05659cfe990452c0724fed43871164c07113285e"
+    },
+    {
+      "path": "config/litematica/litematica_新的世界1212121_dim_stellaris_jupiter.json",
+      "hash": "05659cfe990452c0724fed43871164c07113285e"
+    },
+    {
+      "path": "config/litematica/litematica_新的世界1212121_dim_stellaris_mercury.json",
       "hash": "05659cfe990452c0724fed43871164c07113285e"
     },
     {
@@ -883,7 +895,7 @@
     },
     {
       "path": "config/packetfixer.properties",
-      "hash": "9d09e3421cd04170f50ca52cc140de4dce6b65e3"
+      "hash": "3436aa1f801cd8da5768f333a35e096b37eae149"
     },
     {
       "path": "config/particle_core_config.toml",
@@ -1090,8 +1102,108 @@
       "hash": "55f9642b221a00e77a5c799229698f6e868bca8b"
     },
     {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/life/aerbunny_photo.json",
+      "hash": "ff6c79693444171d2ef84661032097d27b9da5e6"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/life/ai_reply.json",
+      "hash": "3f42bfabacbc38f224d02185f727bee9dc175efe"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/life/moon_photo.json",
+      "hash": "490031bcd93bf61045c13ec063e93a243e014e9a"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/life/root.json",
+      "hash": "73fadb32be0a4a723fc94fb3a5c4bcb3225ddd78"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/life/ten_fish.json",
+      "hash": "ffc76342c2e6c52edf369d353c325631e0ee67ac"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/life/treasure_reuse.json",
+      "hash": "7ae40df01c849cf1ba8aa354ff0d9cc92fcf8da8"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/life/villager_photo.json",
+      "hash": "76b39d2362fd0a2cc94bc50032912b6ce5b0aa1d"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/aegis.json",
+      "hash": "0bb6571efb89c11f7d6b1907a285bfb90e733b4d"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/alloys.json",
+      "hash": "263646921f8d2009ec3a3ecb0bbc1526a7f6573a"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/biosteel.json",
+      "hash": "7312fbea97f2410c987fd7de9f94d62d88d8c523"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/carbon.json",
+      "hash": "de79cf73f218fbffe8722bcefde0d11e4308a32d"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/drone.json",
+      "hash": "8a1f6362c8f188b965e81fbb3e65bd26c4c5f963"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/energite.json",
+      "hash": "904fce7b7e4e524849b17ce34242a1cf2d63e5a7"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/first_implant.json",
+      "hash": "24cb771ae48bcfa1d77de8fa349a85576dc5e017"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/gravity.json",
+      "hash": "5a6b54f1faa745a97a0575186d12a94596c297fe"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/heisenberg.json",
+      "hash": "0165d30771911682b0aa47b73099b285c63d9da6"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/home_return.json",
+      "hash": "cb99dab9afe638053c65c41ed7e8bf262899bad3"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/life_fortress.json",
+      "hash": "568fa52e41d9a74c84e0d807a791f0eca70f476e"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/offworld_materials.json",
+      "hash": "b73afa1a98a8fef4fc1db309377aaf0299a585f6"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/ore_sense.json",
+      "hash": "b0331af9a1c16794714623db940e4db6e3529623"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/quantum_station.json",
+      "hash": "2ee5a0ec6d3c61b5be6382fce5fcb260048b5353"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/root.json",
+      "hash": "af66e2d57658d09544ba0245f97e737deccc29c1"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/advancement/tech/steel.json",
+      "hash": "14921e603c40cddb5c19812fc6f78065165e261c"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/data/better_mc_milestones/tags/entity_type/mca_villagers.json",
+      "hash": "74dc8f861fed3f68ce3ddfaeb1ae93573bb415d9"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_milestones/pack.mcmeta",
+      "hash": "66ff35ce229f5874171f1644121371400f70503e"
+    },
+    {
       "path": "config/paxi/datapack_load_order.json",
-      "hash": "eedcad8bd68a565d0da807de4981af4e28fde9fc"
+      "hash": "c746c4d57a7cea97fd9810859ae20a7c973e8ce8"
     },
     {
       "path": "config/paxi/resourcepacks/!!§r§f§l 零雾构想 v5003 §7- 2025-10-02 §0.zip",
@@ -13743,7 +13855,7 @@
     },
     {
       "path": "config/reliable_remover.json",
-      "hash": "51dc41f7abf431cc409481508fbf55ad63cb4c9a"
+      "hash": "5248766f835c46c4f6e45898b4af5e047ffcdba8"
     },
     {
       "path": "config/resolutioncontrol.json",
@@ -14051,7 +14163,7 @@
     },
     {
       "path": "config/spark/activity.json",
-      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
+      "hash": "aeb98c2e8412371c10e51bb90a3fda315275b4a7"
     },
     {
       "path": "config/spark/config.json",
@@ -14259,7 +14371,7 @@
     },
     {
       "path": "config/zfastnoise.mixin.properties",
-      "hash": "8ea9a5b1c930c0875d60dedc2ef5ab1647c25cd3"
+      "hash": "1d533f80ee75bd24ea3986ddffdee5bde3a2c768"
     },
     {
       "path": "config/zoomify.json",
@@ -14344,6 +14456,10 @@
     {
       "path": "mods/better_mc_mca_chinese-1.0.1.jar",
       "hash": "7ef4007f66064e95d4259733d1d40b81c8c97e49"
+    },
+    {
+      "path": "mods/better_mc_milestones-1.0.0.jar",
+      "hash": "9f12f4db90bedbf02f62209ef72f90d02ca3443c"
     },
     {
       "path": "mods/better_mc_quest_bridge-1.0.0.jar",
@@ -15026,10 +15142,6 @@
       "hash": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6"
     },
     {
-      "path": "options.txt",
-      "hash": "e5eee142d801c5123981cc1d883fea8bd2305407"
-    },
-    {
       "path": "resourcepacks/!!§r§f§l [尝鲜] 〇五红显 05RD §7- 2025-11-04 §0.zip",
       "hash": "cf307b32426465333ef12f642c0105f145ee22e2"
     },
@@ -15111,7 +15223,7 @@
     },
     {
       "path": "shaderpacks/[Medium]photon_v1.3b.zip.txt",
-      "hash": "fb22964cef56fb2450ece9472e272b0d3d0fccb9"
+      "hash": "5fb6e4b6e8082aed710a7efe53f29bb3d03c713c"
     },
     {
       "path": "shaderpacks/[Potato]Sildur\u0027s Enhanced Default v1.19 Fancy.zip",

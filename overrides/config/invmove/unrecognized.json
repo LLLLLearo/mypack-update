@@ -108,7 +108,9 @@
     "com.st0x0ef.stellaris.client.screens.GalaxyScreen": true,
     "net.conczin.mca.client.gui.VillagerEditorScreen": true,
     "net.conczin.mca.client.gui.FamilyTreeScreen": true,
-    "net.conczin.mca.client.gui.BlueprintScreen": true
+    "net.conczin.mca.client.gui.BlueprintScreen": true,
+    "com.st0x0ef.stellaris.client.screens.RoverScreen": true,
+    "net.minecraft.class_407": true
   },
   "hideBackground": {
     "net.minecraft.class_5522": true,

@@ -1,6 +1,7 @@
 {
   "loadOrder": [
     "better_mc_links",
-    "better_mc_mca_simple_names"
+    "better_mc_mca_simple_names",
+    "better_mc_milestones"
   ]
 }

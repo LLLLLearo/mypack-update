@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:ender_pearl"
+    },
+    "title": {
+      "text": "回家键已安装"
+    },
+    "description": {
+      "text": "返程，也成了一项身体功能。\n安装「便携折跃」，能够返回强化站。"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "installed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "installed"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/first_implant"
+}

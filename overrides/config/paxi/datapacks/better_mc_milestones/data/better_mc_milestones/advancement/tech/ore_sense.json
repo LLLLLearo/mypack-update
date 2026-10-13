@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:raw_gold"
+    },
+    "title": {
+      "text": "矿石感应"
+    },
+    "description": {
+      "text": "这回找矿，多了一双眼睛。\n安装「矿石感应」。"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "installed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "installed"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/first_implant"
+}

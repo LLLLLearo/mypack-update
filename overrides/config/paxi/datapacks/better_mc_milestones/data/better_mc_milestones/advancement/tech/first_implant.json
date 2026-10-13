@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "oritech:augment_application_block"
+    },
+    "title": {
+      "text": "升级的是我"
+    },
+    "description": {
+      "text": "第一次把研究成果装到自己身上。\n实际安装任意一项植入体。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "installed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "installed"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/root"
+}

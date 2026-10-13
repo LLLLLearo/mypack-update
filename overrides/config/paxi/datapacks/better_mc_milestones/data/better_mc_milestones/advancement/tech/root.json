@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "oritech:steel_ingot"
+    },
+    "title": {
+      "text": "科技与改造"
+    },
+    "description": {
+      "text": "从第一炉钢，到升级你自己。"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "enter": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "enter"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

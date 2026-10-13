@@ -1,0 +1,53 @@
+{
+  "display": {
+    "icon": {
+      "id": "stellaris:desh_ingot"
+    },
+    "title": {
+      "text": "地球之外的材料"
+    },
+    "description": {
+      "text": "把异星收获带进你的发展线。\n分别获得戴斯锭与萨西特锭。"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stellaris:desh_ingot"
+            ]
+          }
+        ]
+      }
+    },
+    "item_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stellaris:tharsite_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_1"
+    ],
+    [
+      "item_2"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "better_mc_milestones:tech/alloys"
+}
