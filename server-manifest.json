@@ -1,7 +1,7 @@
 {
   "name": "[1.21.1Fabric]Better MC",
   "author": "LLLLLearo",
-  "version": "3.3.5",
+  "version": "3.3.6",
   "description": "",
   "fileApi": "https://gh-proxy.com/https://raw.githubusercontent.com/LLLLLearo/mypack-update/main",
   "files": [
@@ -15248,6 +15248,10 @@
     {
       "path": "shaderpacks/[Very High]photon_v1.3b .zip.txt",
       "hash": "81a0a9b579b2866bea3d242aa868845cc5531ac2"
+    },
+    {
+      "path": "options.txt",
+      "hash": "e5eee142d801c5123981cc1d883fea8bd2305407"
     }
   ],
   "addons": [
