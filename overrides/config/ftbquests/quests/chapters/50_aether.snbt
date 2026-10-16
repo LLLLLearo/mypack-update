@@ -226,8 +226,8 @@
 				item: { count: 1, id: "aether:candy_cane_sword" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: -1.0d
+			x: -6.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["2EB9F2D3D7F90AA8"]
@@ -279,8 +279,8 @@
 					type: "item"
 				}
 			]
-			x: -5.0d
-			y: 1.0d
+			x: -6.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["2EB9F2D3D7F90AA8"]
@@ -464,7 +464,7 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
+			x: -2.0d
 			y: 8.0d
 		}
 		{
@@ -661,7 +661,6 @@
 			rewards: [{
 				auto: "disabled"
 				id: "6560BECC873EBA8E"
-				table_id: 6068984984512044972L
 				team_reward: false
 				type: "random"
 			}]

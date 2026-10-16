@@ -1,0 +1,18 @@
+{
+  "type": "oritech:foundry",
+  "ingredients": [
+    {
+      "item": "aether:enchanted_gravitite"
+    },
+    {
+      "tag": "c:ingots/nickel"
+    }
+  ],
+  "results": [
+    {
+      "id": "oritech:adamant_ingot",
+      "count": 2
+    }
+  ],
+  "time": 213
+}

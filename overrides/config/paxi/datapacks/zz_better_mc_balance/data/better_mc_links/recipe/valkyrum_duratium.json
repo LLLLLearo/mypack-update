@@ -1,0 +1,18 @@
+{
+  "type": "oritech:foundry",
+  "ingredients": [
+    {
+      "item": "aether_treasure_reforging:valkyrum_ingot"
+    },
+    {
+      "tag": "c:ingots/platinum"
+    }
+  ],
+  "results": [
+    {
+      "id": "oritech:duratium_ingot",
+      "count": 1
+    }
+  ],
+  "time": 267
+}

@@ -26,7 +26,7 @@
 			maxEnergyExtraction = 0
 			# Default: 128
 			# Range: > 0
-			energyPerTick = 128
+			energyPerTick = 96
 
 		[machineSettings.processingMachines.atomicForgeData]
 			# Default: 1024
@@ -51,7 +51,7 @@
 			maxEnergyInsertion = 512
 			# Default: 64
 			# Range: > 0
-			energyPerTick = 64
+			energyPerTick = 48
 			#Fluid tank size in buckets
 			# Default: 8
 			# Range: 0 ~ 9223372036854775807
@@ -69,7 +69,7 @@
 			maxEnergyExtraction = 0
 			# Default: 128
 			# Range: > 0
-			energyPerTick = 128
+			energyPerTick = 96
 
 		[machineSettings.processingMachines.coolerData]
 			# Default: 50000
@@ -97,7 +97,7 @@
 			maxEnergyExtraction = 0
 			# Default: 256
 			# Range: > 0
-			energyPerTick = 256
+			energyPerTick = 192
 
 		[machineSettings.processingMachines.furnaceData]
 			# Default: 10000
@@ -112,7 +112,7 @@
 			#Furnace speed multiplier relative to vanilla
 			# Default: 0.5
 			# Range: 0.0 ~ 100.0
-			speedMultiplier = 0.5
+			speedMultiplier = 0.6666666667
 
 		[machineSettings.processingMachines.pulverizerData]
 			# Default: 25000
@@ -126,7 +126,7 @@
 			maxEnergyExtraction = 0
 			# Default: 32
 			# Range: > 0
-			energyPerTick = 32
+			energyPerTick = 24
 
 		[machineSettings.processingMachines.refineryData]
 			# Default: 50000
@@ -140,7 +140,7 @@
 			maxEnergyExtraction = 0
 			# Default: 64
 			# Range: > 0
-			energyPerTick = 64
+			energyPerTick = 48
 
 	[machineSettings.generators]
 		#Generator animation speed multiplier

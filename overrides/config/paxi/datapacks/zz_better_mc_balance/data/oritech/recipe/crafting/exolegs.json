@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "oritech:motor"
+    },
+    "p": {
+      "tag": "oritech:plating"
+    },
+    "V": {
+      "item": "better_mc_expedition:exoskeleton_template"
+    }
+  },
+  "pattern": [
+    "ppp",
+    "pcp",
+    "pVp"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oritech:exo_leggings"
+  }
+}

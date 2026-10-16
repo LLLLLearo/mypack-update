@@ -1,0 +1,24 @@
+{
+  "type": "oritech:assembler",
+  "ingredients": [
+    {
+      "tag": "c:ingots/steel"
+    },
+    {
+      "tag": "c:ingots/steel"
+    },
+    {
+      "item": "oritech:carbon_fibre_strands"
+    },
+    {
+      "item": "oritech:carbon_fibre_strands"
+    }
+  ],
+  "results": [
+    {
+      "id": "stellaris:rocket_fin",
+      "count": 2
+    }
+  ],
+  "time": 320
+}

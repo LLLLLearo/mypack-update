@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "oritech:advanced_battery"
+    },
+    "p": {
+      "tag": "oritech:plating"
+    },
+    "V": {
+      "item": "aether_treasure_reforging:valkyrum_ingot"
+    },
+    "T": {
+      "item": "better_mc_expedition:exoskeleton_template"
+    }
+  },
+  "pattern": [
+    "pVp",
+    "pTp",
+    "pcp"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oritech:exo_chestplate"
+  }
+}

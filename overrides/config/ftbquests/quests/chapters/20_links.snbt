@@ -56,8 +56,8 @@
 				item: { count: 1, id: "supplementaries:flax_block" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: -4.0d
+			y: 2.0d
 		}
 		{
 			id: "6C046310BBF0FE03"
@@ -68,7 +68,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -104,7 +104,7 @@
 				type: "checkmark"
 			}]
 			x: 0.0d
-			y: 0.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["6F9A0ECC301DCD3B"]
@@ -156,8 +156,8 @@
 				item: { count: 1, id: "aether_treasure_reforging:valkyrum_ingot" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: 2.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -193,7 +193,7 @@
 				id: "10E2563653A16916"
 				type: "checkmark"
 			}]
-			x: 0.0d
+			x: 4.0d
 			y: 0.0d
 		}
 		{

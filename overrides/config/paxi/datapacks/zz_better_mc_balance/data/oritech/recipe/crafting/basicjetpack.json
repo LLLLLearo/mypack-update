@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": {
+      "item": "oritech:advanced_battery"
+    },
+    "o": {
+      "item": "minecraft:gunpowder"
+    },
+    "r": {
+      "tag": "c:ingots/steel"
+    },
+    "t": {
+      "tag": "c:leathers"
+    },
+    "V": {
+      "item": "aether_treasure_reforging:valkyrum_ingot"
+    }
+  },
+  "pattern": [
+    "Vt ",
+    "rrr",
+    "oio"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oritech:jetpack"
+  }
+}

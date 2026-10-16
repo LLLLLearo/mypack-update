@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "better_mc_expedition:carbon_sheet_bundle"
+    }
+  ],
+  "result": {
+    "id": "oritech:reinforced_carbon_sheet",
+    "count": 9
+  }
+}

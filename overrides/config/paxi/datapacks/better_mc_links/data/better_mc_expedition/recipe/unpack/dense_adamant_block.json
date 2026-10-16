@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "better_mc_expedition:dense_adamant_block"
+    }
+  ],
+  "result": {
+    "id": "oritech:adamant_block",
+    "count": 9
+  }
+}

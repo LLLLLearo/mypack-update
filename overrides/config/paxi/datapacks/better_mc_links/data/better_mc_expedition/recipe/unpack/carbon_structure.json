@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "better_mc_expedition:carbon_structure"
+    }
+  ],
+  "result": {
+    "id": "better_mc_expedition:carbon_sheet_bundle",
+    "count": 9
+  }
+}

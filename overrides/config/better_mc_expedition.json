@@ -1,0 +1,8 @@
+{
+  "windowSeconds": 300,
+  "quotaRF": 1200000000,
+  "maxOutputRFPerTick": 1000000,
+  "repairPerSecond": 32,
+  "rescueCooldownSeconds": 300,
+  "extraBuildReach": 8
+}

@@ -1,0 +1,24 @@
+{
+  "type": "oritech:assembler",
+  "ingredients": [
+    {
+      "item": "oritech:motor"
+    },
+    {
+      "item": "stellaris:heavy_metal_plate"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "item": "oritech:biosteel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "id": "stellaris:rocket_engine",
+      "count": 1
+    }
+  ],
+  "time": 320
+}

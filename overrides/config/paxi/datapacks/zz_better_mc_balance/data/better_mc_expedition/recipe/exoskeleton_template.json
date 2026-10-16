@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BDB",
+    "PGP",
+    "BDB"
+  ],
+  "key": {
+    "B": {
+      "item": "oritech:biosteel_ingot"
+    },
+    "D": {
+      "item": "stellaris:desh_ingot"
+    },
+    "P": {
+      "item": "oritech:processing_unit"
+    },
+    "G": {
+      "item": "aether:enchanted_gravitite"
+    }
+  },
+  "result": {
+    "id": "better_mc_expedition:exoskeleton_template",
+    "count": 1
+  }
+}

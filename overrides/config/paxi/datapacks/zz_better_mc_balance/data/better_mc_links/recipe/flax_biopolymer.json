@@ -1,0 +1,19 @@
+{
+  "type": "oritech:centrifuge_fluid",
+  "ingredients": [
+    {
+      "item": "supplementaries:flax_block"
+    }
+  ],
+  "results": [
+    {
+      "id": "oritech:raw_biopolymer",
+      "count": 1
+    }
+  ],
+  "time": 267,
+  "fluidInput": {
+    "fluid": "minecraft:water",
+    "amount": 40500
+  }
+}

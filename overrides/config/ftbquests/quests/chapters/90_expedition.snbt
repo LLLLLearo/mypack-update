@@ -1,0 +1,372 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "90_expedition"
+	group: "6746CC9A38470A04"
+	icon: {
+		id: "better_mc_expedition:expedition_star"
+	}
+	id: "62AEA55A8241D006"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "better_mc_expedition:expedition_star"
+			}
+			id: "648C07D0EB34487E"
+			tasks: [{
+				id: "6DDC92DFBA9BA9B8"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "better_mc_expedition:industrial_core"
+			}
+			id: "6CB9011C61A66828"
+			tasks: [{
+				consume_items: false
+				id: "61FAE0911EE24D17"
+				item: { count: 1, id: "better_mc_expedition:industrial_core" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "better_mc_expedition:aether_core"
+			}
+			id: "6693FB6F4F2C7EC7"
+			tasks: [{
+				consume_items: false
+				id: "6C56FD80634C8283"
+				item: { count: 1, id: "better_mc_expedition:aether_core" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "better_mc_expedition:stellar_core"
+			}
+			id: "6571D5A2D79527FD"
+			tasks: [{
+				consume_items: false
+				id: "6702CA5FCD34D276"
+				item: { count: 1, id: "better_mc_expedition:stellar_core" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "better_mc_expedition:life_core"
+			}
+			id: "6CE2C39050644CC1"
+			tasks: [{
+				consume_items: false
+				id: "6B48C01CE72B1BFB"
+				item: { count: 1, id: "better_mc_expedition:life_core" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "better_mc_expedition:vanilla_core"
+			}
+			id: "64CB9EEFC50996FA"
+			tasks: [{
+				consume_items: false
+				id: "640C45E648888729"
+				item: { count: 1, id: "better_mc_expedition:vanilla_core" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "better_mc_expedition:tide_core"
+			}
+			id: "6E73047E36C0AABF"
+			tasks: [{
+				consume_items: false
+				id: "606046C2A271DC31"
+				item: { count: 1, id: "better_mc_expedition:tide_core" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "minecraft:smithing_table"
+			}
+			id: "6E19564879D3A25F"
+			tasks: [{
+				advancement: "better_mc_expedition:village/armory"
+				criterion: ""
+				id: "648A97DEF0CE9BBF"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "minecraft:red_bed"
+			}
+			id: "6F2023EF5BC54534"
+			tasks: [{
+				advancement: "better_mc_expedition:village/big_house"
+				criterion: ""
+				id: "65B33AECD60EF0DC"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "minecraft:blast_furnace"
+			}
+			id: "66A729151A4A5D91"
+			tasks: [{
+				advancement: "better_mc_expedition:village/blacksmith"
+				criterion: ""
+				id: "651B0E2386412A9A"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "minecraft:stone_bricks"
+			}
+			id: "63E05F70449D310C"
+			tasks: [{
+				advancement: "better_mc_expedition:village/graveyard"
+				criterion: ""
+				id: "6E495ACDE2A22E6D"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "minecraft:brewing_stand"
+			}
+			id: "6736A05E69116840"
+			tasks: [{
+				advancement: "better_mc_expedition:village/infirmary"
+				criterion: ""
+				id: "657FAC94CA873FFB"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "minecraft:jukebox"
+			}
+			id: "6F5BA0B6541B0AE5"
+			tasks: [{
+				advancement: "better_mc_expedition:village/inn"
+				criterion: ""
+				id: "68B592E4698C2271"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "minecraft:bookshelf"
+			}
+			id: "6ED948B951FDE657"
+			tasks: [{
+				advancement: "better_mc_expedition:village/library"
+				criterion: ""
+				id: "68E753C33A47D1BC"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "minecraft:note_block"
+			}
+			id: "65E4F4E3F2CFFFEC"
+			tasks: [{
+				advancement: "better_mc_expedition:village/music_store"
+				criterion: ""
+				id: "64CAEC7D187AA006"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "minecraft:iron_bars"
+			}
+			id: "6FBB815269A5849A"
+			tasks: [{
+				advancement: "better_mc_expedition:village/prison"
+				criterion: ""
+				id: "62DB3FCE918CEE1D"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "61F12EE65A6A93B7"
+			tasks: [{
+				advancement: "better_mc_expedition:village/storage"
+				criterion: ""
+				id: "6FB3BE766072B31C"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"6E19564879D3A25F"
+				"6F2023EF5BC54534"
+				"66A729151A4A5D91"
+				"63E05F70449D310C"
+				"6736A05E69116840"
+				"6F5BA0B6541B0AE5"
+				"6ED948B951FDE657"
+				"65E4F4E3F2CFFFEC"
+				"6FBB815269A5849A"
+				"61F12EE65A6A93B7"
+			]
+			icon: {
+				id: "better_mc_expedition:life_core"
+			}
+			id: "690C443580B5C326"
+			rewards: [{
+				id: "61B704186D603D55"
+				item: {
+					count: 1
+					id: "better_mc_expedition:life_core"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "better_mc_expedition:village/complete"
+				criterion: ""
+				id: "65BC23DAEE36D568"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"6CB9011C61A66828"
+				"6693FB6F4F2C7EC7"
+				"6571D5A2D79527FD"
+				"6CE2C39050644CC1"
+				"64CB9EEFC50996FA"
+				"6E73047E36C0AABF"
+			]
+			icon: {
+				id: "better_mc_expedition:expedition_star"
+			}
+			id: "6966B2AABB041E8A"
+			tasks: [{
+				consume_items: false
+				id: "69B5BFB75555CCA9"
+				item: { count: 1, id: "better_mc_expedition:expedition_star" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "oritech:reinforced_carbon_sheet"
+			}
+			id: "67A710C61F1D9A65"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "670271A58CFD8BE8"
+				item: { count: 1, id: "oritech:reinforced_carbon_sheet" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "oritech:duratium_ingot"
+			}
+			id: "67E4072BDF2BCC4A"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "677D4F7241A301B1"
+				item: { count: 1, id: "oritech:duratium_ingot" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["648C07D0EB34487E"]
+			icon: {
+				id: "oritech:super_ai_chip"
+			}
+			id: "677E3FA80FDC1AEC"
+			tasks: [{
+				consume_items: false
+				count: 9L
+				id: "670DFADD0E5FA5C8"
+				item: { count: 1, id: "oritech:super_ai_chip" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 5.0d
+		}
+	]
+}

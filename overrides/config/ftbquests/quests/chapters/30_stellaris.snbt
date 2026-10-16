@@ -51,7 +51,7 @@
 				id: "5772FD5E3BF1838D"
 				type: "dimension"
 			}]
-			x: 8.0d
+			x: 12.0d
 			y: 0.0d
 		}
 		{
@@ -61,7 +61,7 @@
 				id: "7CC983F95C6CBE80"
 				type: "dimension"
 			}]
-			x: 0.0d
+			x: 8.0d
 			y: 0.0d
 		}
 		{
@@ -72,7 +72,7 @@
 				id: "788570AB9DF35A4E"
 				type: "dimension"
 			}]
-			x: 8.0d
+			x: 12.0d
 			y: 2.0d
 		}
 		{
@@ -151,8 +151,8 @@
 				item: { count: 1, id: "stellaris:oil_finder" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: -4.0d
+			y: 2.0d
 		}
 		{
 			id: "7E3B10D68A613396"
@@ -163,7 +163,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["10FD17F1D618159F"]
@@ -260,7 +260,7 @@
 					type: "checkmark"
 				}
 			]
-			x: 0.0d
+			x: 10.0d
 			y: 0.0d
 		}
 	]

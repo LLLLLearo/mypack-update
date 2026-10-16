@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "tag": "c:silicon"
+    },
+    "p": {
+      "tag": "oritech:plating"
+    },
+    "V": {
+      "item": "better_mc_expedition:exoskeleton_template"
+    }
+  },
+  "pattern": [
+    "V  ",
+    "p p",
+    "c c"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oritech:exo_boots"
+  }
+}

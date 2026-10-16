@@ -1,7 +1,7 @@
 {
   "name": "[1.21.1Fabric]Better MC",
   "author": "LLLLLearo",
-  "version": "3.3.6",
+  "version": "3.3.7",
   "description": "",
   "fileApi": "https://gh-proxy.com/https://raw.githubusercontent.com/LLLLLearo/mypack-update/main",
   "files": [
@@ -311,7 +311,7 @@
     },
     {
       "path": "config/fancymenu/assets/update_log.txt",
-      "hash": "fbf6bc7409e37a1cda8af56d0a840a292007e105"
+      "hash": "ad0663195f8d559e562c75017b1690d53114a558"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
@@ -495,15 +495,15 @@
     },
     {
       "path": "config/ftbquests/quests/chapters/10_oritech.snbt",
-      "hash": "5e60f99d242e5edf07c5e1833006bf51138cd4bc"
+      "hash": "65007fffb11afc39fea4b5ccd0123dcb83fca35c"
     },
     {
       "path": "config/ftbquests/quests/chapters/20_links.snbt",
-      "hash": "018ace19e820f7949f06d4be4e3ca39f492def09"
+      "hash": "0976345354854111885391ac5d5e8feb57f24142"
     },
     {
       "path": "config/ftbquests/quests/chapters/30_stellaris.snbt",
-      "hash": "097f7b3c51b436a3fbf4166a76fdb9a871ab7632"
+      "hash": "459c66fda394ea859e61781040768e793ed00c50"
     },
     {
       "path": "config/ftbquests/quests/chapters/40_challenges.snbt",
@@ -511,7 +511,7 @@
     },
     {
       "path": "config/ftbquests/quests/chapters/50_aether.snbt",
-      "hash": "b75b3a19340b42579220c09c51774166a7cca265"
+      "hash": "a57be1b42293d1df828632c69fa074c318d2c417"
     },
     {
       "path": "config/ftbquests/quests/chapters/60_mca_chat.snbt",
@@ -531,7 +531,7 @@
     },
     {
       "path": "config/ftbquests/quests/chapter_groups.snbt",
-      "hash": "feb0659e3a64a6a020b6a7309a0e840c99049223"
+      "hash": "cc77f960328e0717c4c3ddc291e2b21ec6e27056"
     },
     {
       "path": "config/ftbquests/quests/data.snbt",
@@ -539,11 +539,11 @@
     },
     {
       "path": "config/ftbquests/quests/lang/en_us.snbt",
-      "hash": "6e391c4e020f213f0097cea4af8f7cd547a2f22e"
+      "hash": "cf5f11c9e99c6b909248f34d88146111e6a3ebec"
     },
     {
       "path": "config/ftbquests/quests/lang/zh_cn.snbt",
-      "hash": "7c6d5ea0574c96aa7354024fc18f6003dffcd6ff"
+      "hash": "cf24f0ed5609c49170ecfdb1352d245a476eb86d"
     },
     {
       "path": "config/ftbquests/quests/reward_tables/explorer_artifacts.snbt",
@@ -887,7 +887,7 @@
     },
     {
       "path": "config/oritech-common.toml",
-      "hash": "cf19989fe34fee7d5397162cc6040fcfa420a5d8"
+      "hash": "e54baa50e02842487fc03a9b241ec3b31f5ab0b0"
     },
     {
       "path": "config/oritech-startup.toml",
@@ -919,23 +919,23 @@
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/aerogel_oxygen_tank.json",
-      "hash": "9c21f7844463392e40928708c772ed696dc5cc7a"
+      "hash": "c711f1bba313d54456a5ba557a281b4195887faf"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/color_film_assembled.json",
-      "hash": "0ec6e5b4716aac19f652ea55d18a662ee12afb8c"
+      "hash": "7059dd6b230225fa68ca39d6492ef78c3602901b"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/desh_processing.json",
-      "hash": "ba75100f37817f62da702ab5f9d23ccecb53c210"
+      "hash": "9292b964979c2d6fc448102363038cd730e226fb"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/flax_biomass.json",
-      "hash": "a817bd79a7b287a06b1c31491bacaeb79315052d"
+      "hash": "0cd97b461c41f9eba45899c3c6f3ccd03d40babd"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/flax_biopolymer.json",
-      "hash": "d2af89471f9f34c429e9df67a3d0eddf7b3f23d9"
+      "hash": "2f289f295260dc300c6f87024e9ee0042885c548"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/flax_sail.json",
@@ -943,15 +943,15 @@
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/gravitite_adamant.json",
-      "hash": "c8ad930b8a7895d9cc050ef11f6c1ec233524e63"
+      "hash": "087f787b7db4a0d029e754f5004dcabedf5da6e8"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/rocket_engine_assembled.json",
-      "hash": "41511884f5a1d8d1f17227917062af0c2600c897"
+      "hash": "af2c00a460e9ca70cf602337e269c49d492ec64f"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/rocket_fins_assembled.json",
-      "hash": "52255c477a7f62d294e6d1206f4625be21558de5"
+      "hash": "8d7e7a5e86225d024fd3c4f9a48d481ab4448089"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/startup_nickel.json",
@@ -959,7 +959,7 @@
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/tharsite_processing.json",
-      "hash": "0cb6441ee2e5ab2020cdb1cf0c46cccfd0b40669"
+      "hash": "79be41790bcd3dd4f92699bd0a5cda6711bf2051"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/unify_raw_uranium.json",
@@ -975,7 +975,7 @@
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/better_mc_links/recipe/valkyrum_duratium.json",
-      "hash": "ce5912a62f2adac5e221656de88cc7b7fde8ea61"
+      "hash": "bfa086909eb07f4ddfa3bedadc63703feab9c48a"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/c/tags/fluid/diesel.json",
@@ -987,11 +987,11 @@
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/oritech/recipe/assembler/fluxgate.json",
-      "hash": "204760cc4fb3be11d681c37a2b03b54e7ffdc4d1"
+      "hash": "bed830ff7df3934cb39e7f9b281d1ae1ef347536"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/oritech/recipe/assembler/processingunit.json",
-      "hash": "40a88cfca5211a60ed7541550f6f361fa501f28a"
+      "hash": "b641fe62826550e814627f3b94056b541b69a171"
     },
     {
       "path": "config/paxi/datapacks/better_mc_links/data/stellaris/loot_table/blocks/mercury_uranium_ore.json",
@@ -15226,11 +15226,11 @@
       "hash": "5fb6e4b6e8082aed710a7efe53f29bb3d03c713c"
     },
     {
-      "path": "shaderpacks/[Potato]Sildur\u0027s Enhanced Default v1.19 Fancy.zip",
+      "path": "shaderpacks/[Potato]Sildur's Enhanced Default v1.19 Fancy.zip",
       "hash": "a7fbb1d136dacb4d4c7cbc3c9ddbdc5c9267f65c"
     },
     {
-      "path": "shaderpacks/[Potato]Sildur\u0027s Enhanced Default v1.19 Fancy.zip.txt",
+      "path": "shaderpacks/[Potato]Sildur's Enhanced Default v1.19 Fancy.zip.txt",
       "hash": "cff075b5cebf989d90eb457d9d9d8acad4c99910"
     },
     {
@@ -15252,6 +15252,1058 @@
     {
       "path": "options.txt",
       "hash": "e5eee142d801c5123981cc1d883fea8bd2305407"
+    },
+    {
+      "path": "config/better_mc_expedition.json",
+      "hash": "bb3e88eef9af848fe0ebb3afc185c2f4749a7e37"
+    },
+    {
+      "path": "config/catfighting.properties",
+      "hash": "ceb4f6e50f8debb5665fa1ad9bf4a0d73e3e4e52"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/90_expedition.snbt",
+      "hash": "33424211b3918d24ddaa55c0cfaad822ed4e4a0f"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_links/data/better_mc_expedition/recipe/unpack/battery_array.json",
+      "hash": "b880545eb9c1754bfdf25b54ee9c304f7ef1da41"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_links/data/better_mc_expedition/recipe/unpack/carbon_sheet_bundle.json",
+      "hash": "3d78f10563564a9393574abd05e8acf4d7e53f53"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_links/data/better_mc_expedition/recipe/unpack/carbon_structure.json",
+      "hash": "177c62bad36815d7f1844bdaefe9878aa6743e6f"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_links/data/better_mc_expedition/recipe/unpack/dense_adamant_block.json",
+      "hash": "72f889d46a1b56e0d26928bf462e2f651aab44c3"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_links/data/better_mc_expedition/recipe/unpack/dense_biosteel_block.json",
+      "hash": "ea45fb95bafedf3515a6daac2f6a9fc6cef9f27d"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_links/data/better_mc_expedition/recipe/unpack/dense_duratium_block.json",
+      "hash": "eab7d0814fd3c79a4ee194aad5d2fb8b30d4251b"
+    },
+    {
+      "path": "config/paxi/datapacks/better_mc_links/data/stellaris/recipe/misc/big_oxygen_tank.json",
+      "hash": "f54b015b06bb8f9893d3cbcdbd4033e7761f3298"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_expedition/recipe/exoskeleton_template.json",
+      "hash": "513746b65e847d462619e5af76f5be31c9fd8d6a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_links/recipe/aerogel_oxygen_tank.json",
+      "hash": "c711f1bba313d54456a5ba557a281b4195887faf"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_links/recipe/color_film_assembled.json",
+      "hash": "7059dd6b230225fa68ca39d6492ef78c3602901b"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_links/recipe/desh_processing.json",
+      "hash": "9292b964979c2d6fc448102363038cd730e226fb"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_links/recipe/flax_biomass.json",
+      "hash": "0cd97b461c41f9eba45899c3c6f3ccd03d40babd"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_links/recipe/flax_biopolymer.json",
+      "hash": "2f289f295260dc300c6f87024e9ee0042885c548"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_links/recipe/gravitite_adamant.json",
+      "hash": "087f787b7db4a0d029e754f5004dcabedf5da6e8"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_links/recipe/rocket_engine_assembled.json",
+      "hash": "af2c00a460e9ca70cf602337e269c49d492ec64f"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_links/recipe/rocket_fins_assembled.json",
+      "hash": "8d7e7a5e86225d024fd3c4f9a48d481ab4448089"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_links/recipe/tharsite_processing.json",
+      "hash": "79be41790bcd3dd4f92699bd0a5cda6711bf2051"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/better_mc_links/recipe/valkyrum_duratium.json",
+      "hash": "bfa086909eb07f4ddfa3bedadc63703feab9c48a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/amethystbud.json",
+      "hash": "ff87dbd5daf7980865b0bc9df65f7fff022902b3"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/battery.json",
+      "hash": "b1e445b16c08f7be47567676a46f670bc3ecc8d9"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/batterybetter.json",
+      "hash": "c010eb011572e14c7c6a6fcc8ae2bb337c073a81"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/blazerod.json",
+      "hash": "0c1fb6c4e5041aa7184fffe4779cda983f7c3ab9"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/book.json",
+      "hash": "99f7e3e864c18058522f8b2f550c813154cdbac9"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/claybeads.json",
+      "hash": "25883dee085951405eb1df7b85d11c5c102b5ec6"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/enderlens.json",
+      "hash": "3489fff7e3c35e987949446931408e096c68440d"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/fireball.json",
+      "hash": "2b0fff8d456e2ab41b8bef4ad06ac226d7111ed6"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/fluxgate.json",
+      "hash": "bed830ff7df3934cb39e7f9b281d1ae1ef347536"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/ionthruster.json",
+      "hash": "fabeb58d21de158001ffe3a2a93d52b43d0a9d8b"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/magnet.json",
+      "hash": "402320ff1c5d9a38c50568787154db6270975b58"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/motor.json",
+      "hash": "9d3b68c2b3cc60207671e6710ccb6561c0ee73ad"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/plating.json",
+      "hash": "019026d81e8db4178574087eb0a28ad12b631bba"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/platingcarbon.json",
+      "hash": "21a28d21257649824ac9b27da74f89a9055d405d"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/platingiron.json",
+      "hash": "b8a40f9870c1d9cfd5054d8e7e698d4673da65fe"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/platingnickel.json",
+      "hash": "90fadfda09f48df44ecb7761ceaceab0bdba10ba"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/plutoniumpelletbasic.json",
+      "hash": "c682546fc0a3f0681677bc3378bc960172acda3a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/plutoniumpelletbetter.json",
+      "hash": "ce51aeb72dd67286356b1f2571ffbd60ffd42648"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/plutoniumpelletult.json",
+      "hash": "552e0a6f51823ca99381cedabae39668687e2100"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/processingunit.json",
+      "hash": "b641fe62826550e814627f3b94056b541b69a171"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/reactorplatingalt.json",
+      "hash": "6c2b852997c350922118a84ede913ece20c5b7cc"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/shroomlight.json",
+      "hash": "5ecf9de8256cc77462f2eb3941855344d5fe1eea"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/slime.json",
+      "hash": "5bb8fb291094ddd653231757c057e783f192d6e0"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/solidbiofuel.json",
+      "hash": "f38518e921455a44599c7913de6d62e6a4dfb7f2"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/superconductor.json",
+      "hash": "d79375dcba19727a35d4377604cdb0bf2fdbe87d"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/uranpelletbasic.json",
+      "hash": "79f6f82cc8dd2c5017557a37b565243a79eb11f3"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/uranpelletbetter.json",
+      "hash": "6e848beb00e151b8320abb291b6df2effc286ae6"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/assembler/uranpelletult.json",
+      "hash": "0aa9ffd8ffbdb0f8868d2eb5d2df944945bd4adb"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/carbon.json",
+      "hash": "c8915e14c01f34438aa5b62f3c423a272dca9649"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/clump/copper.json",
+      "hash": "d37790bf4bcdb3c3247280a2711dc784cfa76a24"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/clump/gold.json",
+      "hash": "e1ede8bfd3f61d8a503c6b36ec12aef66428825f"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/clump/iron.json",
+      "hash": "2d502aa16d649776c19904d59e250ec81a786a6a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/clump/nickel.json",
+      "hash": "81fb23d91777bf64591a53de8157542ea66c4505"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/clump/platinum.json",
+      "hash": "ed3e30f298f1fb1d28ee947a243bb55da5223505"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/endericsculk.json",
+      "hash": "9cf9d2e00dac0527bd2e33390e6cfbb300b4e940"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/advbatteryacid.json",
+      "hash": "ecbf443eea5ff6e8cf024bb4cd37eca038b6c8f4"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/batteryacid.json",
+      "hash": "876af020fdd349c3f881d3e208a4e3813f7880d1"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/biofuel.json",
+      "hash": "402363660c39120c80741cdb611e581a741ad80a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/biopolymer.json",
+      "hash": "8ffc6ad060c010553b1b01eba2b841a55902d09d"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/biopolymer_bioblock.json",
+      "hash": "c9f42357ed265f97d3e227fe5926d4b901f22000"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/biopolymer_biomass.json",
+      "hash": "88631f7e770b7304f61c044fafa0e1c621388354"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clay.json",
+      "hash": "6201ac7e0f864ee63c3ce0b882b452234648cd03"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clump/copper.json",
+      "hash": "1c232fcc204e823d6be33dfcee07d6e5de614991"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clump/gold.json",
+      "hash": "b62742b5bc64b62f73fafd31578d22af47b16410"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clump/iron.json",
+      "hash": "6ee6590c60fceff21fbccd252bdc57ca0c4dbe64"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clump/nickel.json",
+      "hash": "91e3a20e9d568508c589d311792139681657bd01"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clump/platinum.json",
+      "hash": "1fe469837948f5798a1961a451fea6b9ebaf1e27"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clumpacid/copper.json",
+      "hash": "730a788f2a15660f1f5adbcf48936cbc08af5b3c"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clumpacid/gold.json",
+      "hash": "7252308d2cfb03439dc21c107c4ae1ae737c9522"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clumpacid/iron.json",
+      "hash": "14b39e835fa1999e37e7f8cb875ee06bea1bdcd2"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clumpacid/nickel.json",
+      "hash": "350aab2480e2c6d0f76c6e8c62fbf268fb8842fb"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/clumpacid/platinum.json",
+      "hash": "9fbb126dfb0045982e3f8f72f0c5e8263c909b5b"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/fuel.json",
+      "hash": "4c56ccf8e22b3550b8453f82051f821691d6e560"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/naptharesin.json",
+      "hash": "f6ca0f4e9618f72c1825c9530e2c6b4c125eb945"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/plasticbio.json",
+      "hash": "345074bfc259756fa3944b37b7bab69ccd220473"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/plasticbiobetter.json",
+      "hash": "e9b8ecf120b8813281cee824429e7860afe5f2e4"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/plasticoil.json",
+      "hash": "98eb141a02e62d5ad965c1e3c4295e6bf3db41b5"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/plasticoilbetter.json",
+      "hash": "b8c4bdcd80921aa6039c9079d777c962403a74e6"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/polymerresin.json",
+      "hash": "3ba99b0c6aa711718bc127025e8e036347849639"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/siliconwafers.json",
+      "hash": "0aaa19c4219722db1e0b8c5aeb6da9fbd0dc6335"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/siliconwash.json",
+      "hash": "1319d1104353374789e64b7374e15ea918f4878f"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/siliconwashbad.json",
+      "hash": "625f3d766abbf9d01129889ab8cfdcd0466fd167"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/fluid/unholyai.json",
+      "hash": "0d3450322902e1d1b4648a363a8c46c2197fb8ae"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/centrifuge/redstoneuran.json",
+      "hash": "e8524fc5edf0109abea103623f076eb6510aeee1"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/crafting/basicjetpack.json",
+      "hash": "dadd8725183eb331f4ed0e00c5e7b5a0a3221247"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/crafting/basicjetpackalt.json",
+      "hash": "42bfb7fc566775e0ef7cf5fe34cb4997bebc5b67"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/crafting/controller.json",
+      "hash": "34dc23954e1e5762f7f105a328292b4834149373"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/crafting/exoboostedelytra.json",
+      "hash": "f73ab3e1d93583c63c10be4022e50661fcbf32d0"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/crafting/exoboostedelytraalt.json",
+      "hash": "c1b1fd7bf402df6390417feb727c278f7a957025"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/crafting/exoboots.json",
+      "hash": "f0964ad48e5ee19df97649e9203bd7b09845179a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/crafting/exochest.json",
+      "hash": "8c48c355337e01eb669faf9e07aa9923857180c0"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/crafting/exohelm.json",
+      "hash": "a8a7914fc4fbc857f55712b99832b10b936ab970"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/crafting/exojetpack.json",
+      "hash": "af555ee36199afca67ffa9df808e6df85b7bcf78"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/crafting/exolegs.json",
+      "hash": "6942f46e430b4997fef7702eee8f5273fb330f24"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/adamant.json",
+      "hash": "f8d04b7df3345c9e7383295a4feecaa77a49691c"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/biosteel.json",
+      "hash": "22faa605a8b64bd96b4ed5c2a8f9bb19339cb590"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/duratium.json",
+      "hash": "a37907db92ffdb469652bdeecce60f4d1fc55735"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/electrum.json",
+      "hash": "abe8c53b2e4975ebe430075a96d827aced6a16cb"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/energite.json",
+      "hash": "b467ee869aa1c35dad52b5d589870d6174fff91f"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/gem/copper.json",
+      "hash": "03fcc97d806034e1c9b817e652945b92f2844086"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/gem/gold.json",
+      "hash": "55ec1af7ac67d5d9cab60dd9518bf206458da38b"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/gem/iron.json",
+      "hash": "96522308aa0431734d05bf84db352cdfb5f783b3"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/gem/nickel.json",
+      "hash": "824b90dba6bc28bd72482d03daad18a87459ab39"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/gem/platinum.json",
+      "hash": "03e7ec402425b3618fd102dcdd5cd24902d7e795"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/netherite.json",
+      "hash": "f3d003e119a90900d910f641198a678140c38134"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/foundry/alloy/steel.json",
+      "hash": "15d5c6ada6e40816655f64dacc61e90069627b60"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/adamant.json",
+      "hash": "e3feb1be491fb3125eb7e08461d9373761f505df"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/biobasic.json",
+      "hash": "81f5ae8ad25855f3b49e796c48ca96068d078adc"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/biosteel.json",
+      "hash": "766bf73d252475b1a35faee9a200c41652a54a14"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/blaze.json",
+      "hash": "5f977814008216010d8de0d92446d84bae83b8c9"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/bone.json",
+      "hash": "151fceb1f12523acb790ef3514e07c4e92f8cdc6"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/coal.json",
+      "hash": "4c2909dde21faf868f40dcba65b3d1aa1920c6f6"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/coalore.json",
+      "hash": "cd9f29dc5b54b8dad306d124f12f05d632f605ee"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/diamondore.json",
+      "hash": "8e5b231f413e3228c572cf30aecaaf508569f1e9"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dripstone.json",
+      "hash": "b103a6e6b558b9089a8cd0a5d4a0e8e37a274e58"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/duratium.json",
+      "hash": "d7588638f9a8658b4030adef5b81abe08f77da3d"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dust/copper.json",
+      "hash": "8632f97927c4a9eaaf3119e559a23723e6e3f1b3"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dust/gold.json",
+      "hash": "ada277f44b3f1aba9f6315709c9ee6213e5c3458"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dust/iron.json",
+      "hash": "d3e7ea24f4e81b96da19cfb6d56459a75f624716"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dust/nickel.json",
+      "hash": "d3d314d51350c2fd364014f211c686db6acfd0cc"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dust/platinum.json",
+      "hash": "f5b8ac84301dc566cbc35b5e7f9453363683fdf3"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dyes/black.json",
+      "hash": "d336ef4c181234a99fe1fe2236584518724e425c"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dyes/blue.json",
+      "hash": "2f4e1fa0e85360abbddedc5c24417ab7d8c5daf1"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dyes/cyan.json",
+      "hash": "0d455952dc689603543ebf050405835f8c2a33e8"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dyes/light_gray.json",
+      "hash": "d7d08a37c70bb76f5635813e42f3d05ee0cb57fa"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dyes/magenta.json",
+      "hash": "ed3f7a82ab6770ea359ad75b71979a95c2b8c2a8"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dyes/orange.json",
+      "hash": "6c8aef8a70c4b98ba9a8699f509457f4d639ce10"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dyes/pink.json",
+      "hash": "6bd77f3676f73ee43910e04b27386fbeecab1636"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dyes/red.json",
+      "hash": "02ce1287e5f5dba9508889bdd350e8ea1b492e69"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dyes/white.json",
+      "hash": "c41dd1e4e0df27ea00159fe001ade78944c889df"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/dyes/yellow.json",
+      "hash": "6fa49ad0eb34d4e850b5f579b733fc62208ce804"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/electrum.json",
+      "hash": "f2f966de799883cfc9d797a9298a30e9524d3ea2"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/energite.json",
+      "hash": "b20b359ebbdd90b90b766b73e4ef9c8596084e8d"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/glowstoneore.json",
+      "hash": "7552547fa9fd6f7e37861bffd3440584132dfedb"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/gravel.json",
+      "hash": "cf16be984c39e3e6fd07838a83c7a24dd40fa158"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/hay_block.json",
+      "hash": "fcc1d03f12bd232fb127ad5c1e40b43a4ff68bc0"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/lapisore.json",
+      "hash": "5d4a573c4239098475c1a8e7fb6682d2b2403fec"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/netheritescrap.json",
+      "hash": "73b775caad4c4a6dee034053112bcf81d2e05c90"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/ore/copper.json",
+      "hash": "a2a5b677b65851eb8eab5ec76c8864ffcd7b3b46"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/ore/gold.json",
+      "hash": "bea03960edd0e903ff010624eace36dbade517d3"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/ore/iron.json",
+      "hash": "ffc1763304fbcb3ddb422cbe3116bdec72176df9"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/ore/nickel.json",
+      "hash": "f004d41837ab189442e32d5efc0d14558a93f836"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/packagedwheatbio.json",
+      "hash": "4414fa18b63f5a7c2f91c036b36e7a1f2d9d2d6c"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/pearl_enderic.json",
+      "hash": "5f250538e4a6ecb983b40f4f1e3d0e1dc0a4d53e"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/prismarine.json",
+      "hash": "fa9a9af9cf856774f36c43a1174ef09d29611d70"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/quartz.json",
+      "hash": "3d2c6cc9e6c13df7395f23408b37879688db4c25"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/quartzore.json",
+      "hash": "f41ae4b767f24ee8ccbbd1e67b3135e4d6280677"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/raw/copper.json",
+      "hash": "a8b0363a85844133650f2f16aedf65c8f6653331"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/raw/gold.json",
+      "hash": "a8aabecc15575aad1da816376d3e436c8c37d687"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/raw/iron.json",
+      "hash": "04a35ef92c2cb9aed9a24bc7c5688189dcbb1a1e"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/raw/nickel.json",
+      "hash": "533f996fb17558e56fb5b1df849aa4e1eeee2c93"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/recycle/diamond.json",
+      "hash": "7d7668bfca829fd1e259024270cae67824d86a1b"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/recycle/iron_dust.json",
+      "hash": "2b8cf18ee59e395afd6035d8917f8107889aa3cb"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/recycle/netherite_scrap.json",
+      "hash": "efab251763256a61d0a9782fe329f4c84881bd46"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/red_sand.json",
+      "hash": "ab5a9c9ae6fcfcdebdbe431364313d51492ea92f"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/redstoneore.json",
+      "hash": "35e78352fbfd54cf7e56dbedd6fbb89ab343c4f5"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/sand.json",
+      "hash": "cb887a4705dad694d86f91408cbc1950774a9c70"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/sand_from_sandstone.json",
+      "hash": "aa82645bd8ff726d119bf6b900c60da1ebf08dec"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/smalldust/copper.json",
+      "hash": "7c4b25550d0d949a3a4237526d06e1de8bd3277d"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/smalldust/gold.json",
+      "hash": "eb5b1f9637cae3be06f35861bf252bf794b97527"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/smalldust/iron.json",
+      "hash": "6a461afc23dcd93495ca608a466757be40c6e2bc"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/smalldust/nickel.json",
+      "hash": "a22d1d0b2c0d62e6b8152390b796af51eee213a7"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/smalldust/platinum.json",
+      "hash": "5ead652358b084f52de9dfd70d4205af12a8e50b"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/steel.json",
+      "hash": "cb8f0432d60ce6f11e58406115a1cc3f34c0af71"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/stone_enderic.json",
+      "hash": "2774328f17d76815662b49c0716f48ccd864a824"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/string.json",
+      "hash": "32435144cd8daadb3ada6ddbfc8b469edece1b46"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/uranium.json",
+      "hash": "b5f98bca2ea75ee9f436068bd71b282a019ff336"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/uraniumcrystal.json",
+      "hash": "4ece1108436c6f155469cc52fdce069f32ee5872"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/grinder/uraniumore.json",
+      "hash": "08d26f2cdc811c7962b94fcae9faf2c80fe203b9"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/adamant.json",
+      "hash": "811fd4f877c27669634a4de15f9eabba83906bdf"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/biobasic.json",
+      "hash": "e58c6cfc38c935b100a1f4215280048c24919786"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/biosteel.json",
+      "hash": "6c5d0e899d4718b8b57661af010381390d3db743"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/blaze.json",
+      "hash": "2ff05055cf1a8d4566baa6923a2c100155dbf448"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/bone.json",
+      "hash": "5fbea77875ef7ef124276d97f819a763d2e4be9e"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/coal.json",
+      "hash": "8baaf00ed379d75f0ca82061126bcda12b11ff75"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/coalore.json",
+      "hash": "7c4cb6dc8ea4182a955f28a2bccb8967dc27e02c"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/diamondore.json",
+      "hash": "a05c7def0fdf19bcad36b9ac91aca7438314afb0"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dripstone.json",
+      "hash": "18ee89b00f499a99d9b377bc2930768947cc4497"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/duratium.json",
+      "hash": "74f5cfb7ea0dc86cd2d48db16f40a5ed53708b4a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dust/copper.json",
+      "hash": "676fb4aca89b055c7a75cf24367556e6d91551dd"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dust/gold.json",
+      "hash": "8c2bcc7acc94294f422cf4a2f05a23db44a3b158"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dust/iron.json",
+      "hash": "a7c09f1ecc46f95766ab5948a9a6bdb13da88a81"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dust/nickel.json",
+      "hash": "fee1ae6d77fe1c538ad51e7c48edcf62886b347a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dust/platinum.json",
+      "hash": "6bb3a2b64e0debaf8f78f3abff24bddaad698a21"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dyes/black.json",
+      "hash": "95ce668da77ab17f8f58570a4a3ba6e8c6303807"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dyes/blue.json",
+      "hash": "e1bf8f772085b59361b4273aa55b6e0e2df3b02f"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dyes/cyan.json",
+      "hash": "f886c0231775f9c56ef2bcdbd6ba38002631cb96"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dyes/light_gray.json",
+      "hash": "035ce4529d464ebb6b7af0491f96f5aa2e8220c3"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dyes/magenta.json",
+      "hash": "6d27d48450ecd30394442b10e8206a6ea55ad7aa"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dyes/orange.json",
+      "hash": "7c1fafd146a4a562728df94564c3252a097c0139"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dyes/pink.json",
+      "hash": "25a4a652fc02b7019cec249f4d4c1b756ec214b0"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dyes/red.json",
+      "hash": "25f2ca72fc27080baefa72e516db5520dcd50691"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dyes/white.json",
+      "hash": "c60fad20b988f074d211c309bdcd300d32a1fd5a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/dyes/yellow.json",
+      "hash": "ebab3a17e11ce4104603e66d90a6606a65b6b7f1"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/electrum.json",
+      "hash": "91993b42d0e83469720630a6d9a6357f1af83d91"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/energite.json",
+      "hash": "ea4753ddbdf102d5d73d39c5a6bf204ff84ea391"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/glowstoneore.json",
+      "hash": "c8417723ac925f72f78139964140f673b013c4cc"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/gravel.json",
+      "hash": "9b7d500a0c5bd657b646159fb969efa87511b72a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/hay_block.json",
+      "hash": "c588d523e4706e1b2cc06002f9de20e6ee82514d"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/lapisore.json",
+      "hash": "47eb3e5d7276e47516ce82b21f5703462c7b52c3"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/ore/copper.json",
+      "hash": "7556cfcc6a98baa769c8531af709a477dd00ecc7"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/ore/gold.json",
+      "hash": "bc607e80b81817c11a9385f60c8e3475ce88b8d2"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/ore/iron.json",
+      "hash": "031947350e7c772b10510ceb5efaa9156002cecd"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/ore/nickel.json",
+      "hash": "e7391c9a1dc1c4c7f1decabc83a066a0325d81f1"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/ore/platinum.json",
+      "hash": "7000ef1c34dc4fd5e6f2b1163684a0de42b49037"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/packagedwheatbio.json",
+      "hash": "6f8d890e07ae7f6e0c58e0edebb1d323a6e41bba"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/pearl_enderic.json",
+      "hash": "0d58e73c112e6e05883d36fd42a4ecf10f881873"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/prismarine.json",
+      "hash": "cb8dbf6a95b339d002dfc98a4def38a2b3c57380"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/quartz.json",
+      "hash": "812a3e25e22c5f4b1afcc9f843e23843b3567812"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/quartzore.json",
+      "hash": "1f4d14579937258e57e8bd6bda8b3702dc5635f5"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/raw/copper.json",
+      "hash": "d15f5829ad6b002f60c2c274043c33d96063c8c6"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/raw/gold.json",
+      "hash": "17c923bae7d8cfeba79b9a7458d5310f05ddf9e4"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/raw/iron.json",
+      "hash": "3cc8105ffe8042f6e5e822367138936b21c90d42"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/raw/nickel.json",
+      "hash": "53f5c50b1a773b20f29b50edb00cd6ee977f7f33"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/raw/platinum.json",
+      "hash": "a95d33b45cff38b436b20027d32a37aea056efbc"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/2_quartz_dust.json",
+      "hash": "a2e2d30c4f9456c796a52502b5dbd430d6ca326f"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/4_quartz_dust.json",
+      "hash": "839dab26af6b4f345f580edfdd8ca4165fcc5587"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/biomass.json",
+      "hash": "f5222559ba5604c733db8f3fd9693029c3e4f182"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/copper_dust.json",
+      "hash": "64d5857a5c06da15ebbf6fe95b42038527afc1ff"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/diamond.json",
+      "hash": "f1bc61432019d394d435c5f0c9a9f2f130501251"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/gold_dust.json",
+      "hash": "26f02efbc69048dfe347ef2cfc607f9947fef958"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/gravel.json",
+      "hash": "1f44f562e66276233e02e6db03442027706ddd5d"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/iron_dust.json",
+      "hash": "0735ed1ee8154752b35c4c1990e86872ddbfd3d1"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/netherite_scrap.json",
+      "hash": "1bf9b7b4e777db809bf0814a43c2ead8a560ce88"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/red_sand.json",
+      "hash": "bb6ccac6cb288c2148d9504eb539b358ecc2c117"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/redstone_dust.json",
+      "hash": "cd58fce9cb4bf9e1da912740ef40412cc890bfd6"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/sand.json",
+      "hash": "01acfd738f45924e2e1e999d63bc53d10f134fe2"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/small_copper_dust.json",
+      "hash": "6f679e555dc152db34fe72340a048375dbde9ab8"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/small_gold_dust.json",
+      "hash": "ce584168db7f21d33a954f4ef328c0c2f23f79a4"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/small_iron_dust.json",
+      "hash": "0ae0922e295c968bf02d712048222248b9ff6974"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/recycle/string.json",
+      "hash": "885e406aee0c36dd72428d031bc60ccd798f8b1a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/red_sand.json",
+      "hash": "0f749d7099c7f94f7fbb0882c46d58e0b278856b"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/redstoneore.json",
+      "hash": "1f7c7ee924522cc7a6c81ecf3d9bd6a79d322f8c"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/sand.json",
+      "hash": "dd2521132f20a07aca6c4af0489f40c591055d1f"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/sand_from_sandstone.json",
+      "hash": "b9207b43013111caf9b83391566c4f7ff526bfdf"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/smalldust/copper.json",
+      "hash": "b814b44b14faea90624ff5191c575b0e133b472e"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/smalldust/gold.json",
+      "hash": "7cd524610bd090b9e3c3126c76eaa996839e7c94"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/smalldust/iron.json",
+      "hash": "c5b4f89e65f70972794a6250617d92945e656e3b"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/smalldust/nickel.json",
+      "hash": "3f490f8a53a25b93116b1259f8dc2677479ae3c7"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/smalldust/platinum.json",
+      "hash": "7c554e4deb3484c68bf306d771f2c81d5ff927b2"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/steel.json",
+      "hash": "b8bb4abb131cc17a59964a26ff72689a47f2e8cd"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/string.json",
+      "hash": "b33a20dd8ce74386f62ef2157a670c5898cc2d42"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/uranium.json",
+      "hash": "f18850f6a9c754e8c2b81ec9d1166cc2ec7533ea"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/uraniumcrystal.json",
+      "hash": "1362f6a57bdf172894edd86d13495a4dcc691030"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/pulverizer/uraniumore.json",
+      "hash": "c804ab7e94683e427835fcd18b157b0b407ce82e"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/biodiesel.json",
+      "hash": "44b58b3637201c73077eaa121c8627e86d035d72"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/carbonsheet.json",
+      "hash": "6ac1df983edcb6d68c2963877e08202f25febb3a"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/heavyoil.json",
+      "hash": "93333a627c347640c5b361d3d960ca99ef4530ee"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/lava.json",
+      "hash": "c34baa744836171f791729497b43819988026f01"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/lavaalt.json",
+      "hash": "1f1e7a45cc618aa2c9e53c3c32121694833cb6f2"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/oilalt.json",
+      "hash": "c6d2d35c9562e7e0ad0bd2c09d7da7ca00492253"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/oilbase.json",
+      "hash": "87b5bf290165f311cfb12358c6954194a6e72705"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/quartz.json",
+      "hash": "d90f58e33f1a2e3c84c50dea57e89c79c3d778f5"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/rawsheol/copper.json",
+      "hash": "e2c592deba8595f0b026f8b5add5efd02b958221"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/rawsheol/gold.json",
+      "hash": "8db80484ceeb34db393f6bbd41a6e45d6be8d4ac"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/rawsheol/iron.json",
+      "hash": "96dfc1e23cdd9c6eeef0c7c6a2174b92a3407017"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/rawsheol/nickel.json",
+      "hash": "87bc74015cba3d525b36f70b9578f1341d94eeb8"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/rawsheol/platinum.json",
+      "hash": "261a3b3664dbaa6a0acfa18872fa1b8e3c05d095"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/data/oritech/recipe/refinery/siliconwashing.json",
+      "hash": "2d6d9811eeb315a9f21046186842256cc8d88b51"
+    },
+    {
+      "path": "config/paxi/datapacks/zz_better_mc_balance/pack.mcmeta",
+      "hash": "62ffa54e3c0accdc94aa76dbdb3be4f2b3267dd1"
+    },
+    {
+      "path": "mods/better_mc_expedition-1.2.1.jar",
+      "hash": "3f39d154ffadcfe3d83ad5d7ecf9647a206f79b4"
+    },
+    {
+      "path": "mods/catfighting-fabric-1.21.1-1.2.0.jar",
+      "hash": "b280060136f1aad1cc2175c06d211b3c031551fd"
     }
   ],
   "addons": [
