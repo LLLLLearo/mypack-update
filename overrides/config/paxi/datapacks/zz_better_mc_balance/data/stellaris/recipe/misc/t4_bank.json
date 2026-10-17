@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "scs",
+    "lpl",
+    "scs"
+  ],
+  "key": {
+    "s": {
+      "item": "stellaris:solerium"
+    },
+    "c": {
+      "item": "oritech:machine_capacitor_addon"
+    },
+    "l": {
+      "item": "oritech:large_storage_block"
+    },
+    "p": {
+      "item": "stellaris:t3_bank"
+    }
+  },
+  "result": {
+    "id": "stellaris:t4_bank",
+    "count": 1
+  }
+}
