@@ -1,7 +1,7 @@
 {
   "name": "[1.21.1Fabric]Better MC",
   "author": "LLLLLearo",
-  "version": "3.3.7",
+  "version": "3.3.8",
   "description": "",
   "fileApi": "https://gh-proxy.com/https://raw.githubusercontent.com/LLLLLearo/mypack-update/main",
   "files": [
@@ -323,7 +323,7 @@
     },
     {
       "path": "config/fancymenu/assets/update_log.txt",
-      "hash": "77537f509b691ea58495fb8aa06c0b84304fa8db"
+      "hash": "9347a4286310359b0c6be6c6914cda3e35096889"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
@@ -15330,10 +15330,6 @@
       "hash": "61ddcad4353233e9e4bacf77e98b17d2702ce63c"
     },
     {
-      "path": "config/voxyworldgenv2.json",
-      "hash": "fcaa527c2c28e5d3ef89814907c93751eb7dd7d9"
-    },
-    {
       "path": "config/vss-client-config.json",
       "hash": "ae842a77905f0cd910101212cdec89468d0278cf"
     },
@@ -16156,10 +16152,6 @@
     {
       "path": "mods/VisualWorkbench-v21.1.1-1.21.1-Fabric.jar",
       "hash": "2cb424841dea0eb6073b8a78ea6ae81fa73da0bc"
-    },
-    {
-      "path": "mods/Voxy World Gen V2-1.21.1-2.2.4.jar",
-      "hash": "bd835b8f47f5342dca63fcd3b87d38b165fa53d2"
     },
     {
       "path": "mods/voxy-0.2.14-alpha.jar",
