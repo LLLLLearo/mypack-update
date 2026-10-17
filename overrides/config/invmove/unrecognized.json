@@ -110,7 +110,12 @@
     "net.conczin.mca.client.gui.FamilyTreeScreen": true,
     "net.conczin.mca.client.gui.BlueprintScreen": true,
     "com.st0x0ef.stellaris.client.screens.RoverScreen": true,
-    "net.minecraft.class_407": true
+    "net.minecraft.class_407": true,
+    "com.st0x0ef.stellaris.client.screens.FuelRefineryScreen": true,
+    "com.st0x0ef.stellaris.client.screens.FluidTankScreen": true,
+    "mcav.exchange.client.ExchangeClient$VillagerPanel": true,
+    "mcav.exchange.client.ExchangeClient$ExchangeConfirm": true,
+    "bettermc.village.ClaimsScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_5522": true,
@@ -126,6 +131,9 @@
     "rearth.oritech.client.ui.AugmentSelectionScreen": true,
     "net.conczin.mca.client.gui.VillagerEditorScreen": true,
     "net.conczin.mca.client.gui.FamilyTreeScreen": true,
-    "net.conczin.mca.client.gui.BlueprintScreen": true
+    "net.conczin.mca.client.gui.BlueprintScreen": true,
+    "mcav.exchange.client.ExchangeClient$VillagerPanel": true,
+    "mcav.exchange.client.ExchangeClient$ExchangeConfirm": true,
+    "bettermc.village.ClaimsScreen": true
   }
 }
