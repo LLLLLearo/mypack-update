@@ -1,7 +1,7 @@
 {
   "name": "[1.21.1Fabric]Better MC",
   "author": "LLLLLearo",
-  "version": "3.3.8",
+  "version": "3.3.9",
   "description": "",
   "fileApi": "https://gh-proxy.com/https://raw.githubusercontent.com/LLLLLearo/mypack-update/main",
   "files": [
@@ -80,6 +80,10 @@
     {
       "path": "config/autohud.json5",
       "hash": "94749e26b75e2bb581c995621f6c1c1cec5ad7f9"
+    },
+    {
+      "path": "config/better_mc_effortless_guard.json",
+      "hash": "493e165543e58d090a15bdfec369851b8adc770c"
     },
     {
       "path": "config/betteradvancements.json",
@@ -323,7 +327,7 @@
     },
     {
       "path": "config/fancymenu/assets/update_log.txt",
-      "hash": "9347a4286310359b0c6be6c6914cda3e35096889"
+      "hash": "734d21abf23af815ed4658f1a578db75738a2597"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
@@ -15494,6 +15498,10 @@
       "hash": "f6c6193c8711340e52645b65dbb7ffde7fbf6f30"
     },
     {
+      "path": "mods/better_mc_effortless_guard-1.0.0.jar",
+      "hash": "01182365e13c817f45e11d960c6d81964d87032a"
+    },
+    {
       "path": "mods/betterdays-1.21.1-3.3.6.3-FABRIC.jar",
       "hash": "148dc335dc20f18152edd443efdf35d7cdf83c50"
     },
@@ -15530,8 +15538,8 @@
       "hash": "330aa4fbbbe64c10eb87dab8b27d3a07b8a3e43a"
     },
     {
-      "path": "mods/better_mc_village_claims-0.3.0.jar",
-      "hash": "860e04eebfc2b06b1e26dbd71e216e6de60499c9"
+      "path": "mods/better_mc_village_claims-0.3.1.jar",
+      "hash": "2e7b486fc610e09175003ad2fcb5a6d8e8307591"
     },
     {
       "path": "mods/better_mc_voice_toggle-1.0.0.jar",
