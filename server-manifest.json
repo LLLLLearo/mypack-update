@@ -1,10 +1,14 @@
 {
   "name": "[1.21.1Fabric]Better MC",
   "author": "LLLLLearo",
-  "version": "3.3.9",
+  "version": "3.3.10",
   "description": "",
   "fileApi": "https://gh-proxy.com/https://raw.githubusercontent.com/LLLLLearo/mypack-update/main",
   "files": [
+    {
+      "path": "mods/better_mc_assembler_choice-1.1.0.jar",
+      "hash": "be72f32424134fc850331d9a23e571ab758a62c2"
+    },
     {
       "path": "options.txt",
       "hash": "e5eee142d801c5123981cc1d883fea8bd2305407"
@@ -327,7 +331,7 @@
     },
     {
       "path": "config/fancymenu/assets/update_log.txt",
-      "hash": "734d21abf23af815ed4658f1a578db75738a2597"
+      "hash": "681e88b8e02646f1ec2fd3e12da3092d9e1b29c4"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
